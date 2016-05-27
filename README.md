@@ -45,9 +45,13 @@ Test 4:
 ```
 
 Logi:
+
 [ParallelOldGC](https://github.com/psynowczyk/JVM_GCBenchmark/blob/master/gc_pold.log)
+
 [CMS](https://github.com/psynowczyk/JVM_GCBenchmark/blob/master/gc_cms.log)
+
 [G1](https://github.com/psynowczyk/JVM_GCBenchmark/blob/master/gc_g1.log)
+
 
 Resultat:
 ![alt text](https://github.com/psynowczyk/JVM_GCBenchmark/blob/master/graph.jpg?raw=true "")
