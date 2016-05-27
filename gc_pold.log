@@ -1,0 +1,245 @@
+Java HotSpot(TM) 64-Bit Server VM (25.73-b02) for linux-amd64 JRE (1.8.0_73-b02), built on Jan 29 2016 17:39:45 by "java_re" with gcc 4.3.0 20080428 (Red Hat 4.3.0-8)
+Memory: 4k page, physical 4047436k(1065748k free), swap 2095100k(2047980k free)
+CommandLine flags: -XX:InitialHeapSize=64758976 -XX:MaxHeapSize=536870912 -XX:+PrintGC -XX:+PrintGCApplicationConcurrentTime -XX:+PrintGCApplicationStoppedTime -XX:+PrintGCDetails -XX:+PrintGCTimeStamps -XX:+PrintTenuringDistribution -XX:+UseCompressedClassPointers -XX:+UseCompressedOops -XX:+UseParallelOldGC 
+0,154: Application time: 0,0868769 seconds
+0,156: [GC (Allocation Failure) 
+Desired survivor size 2621440 bytes, new threshold 7 (max 15)
+[PSYoungGen: 15872K->2528K(18432K)] 154112K->153728K(172032K), 0,0517591 secs] [Times: user=0,10 sys=0,00, real=0,05 secs] 
+0,208: [Full GC (Ergonomics) [PSYoungGen: 2528K->0K(18432K)] [ParOldGen: 151200K->30778K(72704K)] 153728K->30778K(91136K), [Metaspace: 2676K->2676K(1056768K)], 0,1825963 secs] [Times: user=0,28 sys=0,06, real=0,18 secs] 
+0,390: Total time for which application threads were stopped: 0,2367773 seconds, Stopping threads took: 0,0021047 seconds
+0,393: Application time: 0,0024146 seconds
+0,393: [GC (Allocation Failure) 
+Desired survivor size 2621440 bytes, new threshold 7 (max 15)
+[PSYoungGen: 15872K->224K(19968K)] 46650K->31002K(92672K), 0,0016652 secs] [Times: user=0,00 sys=0,00, real=0,00 secs] 
+0,395: Total time for which application threads were stopped: 0,0021969 seconds, Stopping threads took: 0,0004031 seconds
+0,404: Application time: 0,0094224 seconds
+0,405: [GC (Allocation Failure) 
+Desired survivor size 2621440 bytes, new threshold 7 (max 15)
+[PSYoungGen: 19680K->2560K(29184K)] 65818K->50442K(101888K), 0,0134972 secs] [Times: user=0,02 sys=0,00, real=0,02 secs] 
+0,419: Total time for which application threads were stopped: 0,0140300 seconds, Stopping threads took: 0,0002506 seconds
+0,456: Application time: 0,0371174 seconds
+0,456: [Full GC (Ergonomics) [PSYoungGen: 28647K->0K(29184K)] [ParOldGen: 93962K->13164K(74752K)] 122609K->13164K(103936K), [Metaspace: 2695K->2695K(1056768K)], 0,1498019 secs] [Times: user=0,24 sys=0,00, real=0,15 secs] 
+0,606: Total time for which application threads were stopped: 0,1502378 seconds, Stopping threads took: 0,0000530 seconds
+0,672: Application time: 0,0663948 seconds
+0,673: [Full GC (Ergonomics) [PSYoungGen: 26624K->0K(29184K)] [ParOldGen: 151404K->18720K(98304K)] 178028K->18720K(127488K), [Metaspace: 2696K->2696K(1056768K)], 0,0361402 secs] [Times: user=0,05 sys=0,00, real=0,04 secs] 
+0,709: Total time for which application threads were stopped: 0,0370014 seconds, Stopping threads took: 0,0004799 seconds
+0,746: Application time: 0,0369520 seconds
+0,750: [Full GC (Ergonomics) [PSYoungGen: 26624K->0K(29184K)] [ParOldGen: 156960K->29818K(135680K)] 183584K->29818K(164864K), [Metaspace: 2696K->2696K(1056768K)], 0,1851256 secs] [Times: user=0,35 sys=0,01, real=0,19 secs] 
+0,936: Total time for which application threads were stopped: 0,1894392 seconds, Stopping threads took: 0,0041195 seconds
+0,969: Application time: 0,0334801 seconds
+0,972: [Full GC (Ergonomics) [PSYoungGen: 26240K->0K(29184K)] [ParOldGen: 152698K->37921K(169472K)] 178939K->37921K(198656K), [Metaspace: 2696K->2696K(1056768K)], 0,2198650 secs] [Times: user=0,38 sys=0,00, real=0,22 secs] 
+1,192: Total time for which application threads were stopped: 0,2230893 seconds, Stopping threads took: 0,0030306 seconds
+1,289: Application time: 0,0972385 seconds
+1,316: [Full GC (Ergonomics) [PSYoungGen: 26624K->0K(29184K)] [ParOldGen: 299041K->136100K(300032K)] 325665K->136100K(329216K), [Metaspace: 2697K->2697K(1056768K)], 0,1310678 secs] [Times: user=0,25 sys=0,00, real=0,12 secs] 
+1,447: Total time for which application threads were stopped: 0,1579670 seconds, Stopping threads took: 0,0267365 seconds
+1,485: Application time: 0,0378459 seconds
+1,494: [Full GC (Ergonomics) [PSYoungGen: 22553K->0K(29184K)] [ParOldGen: 335780K->35660K(230912K)] 358333K->35660K(260096K), [Metaspace: 2697K->2697K(1056768K)], 0,1458634 secs] [Times: user=0,26 sys=0,01, real=0,15 secs] 
+1,640: Total time for which application threads were stopped: 0,1547765 seconds, Stopping threads took: 0,0082256 seconds
+1,658: Application time: 0,0182760 seconds
+1,659: [GC (Allocation Failure) 
+Desired survivor size 2621440 bytes, new threshold 7 (max 15)
+[PSYoungGen: 25382K->2558K(32256K)] 168563K->164331K(263168K), 0,0333063 secs] [Times: user=0,04 sys=0,00, real=0,03 secs] 
+1,692: Total time for which application threads were stopped: 0,0337744 seconds, Stopping threads took: 0,0002093 seconds
+1,708: Application time: 0,0157197 seconds
+1,710: [Full GC (Ergonomics) [PSYoungGen: 26108K->0K(32256K)] [ParOldGen: 223213K->31277K(274432K)] 249321K->31277K(306688K), [Metaspace: 2698K->2698K(1056768K)], 0,0184662 secs] [Times: user=0,02 sys=0,00, real=0,02 secs] 
+1,729: Total time for which application threads were stopped: 0,0207933 seconds, Stopping threads took: 0,0021351 seconds
+1,745: Application time: 0,0166691 seconds
+1,748: [GC (Allocation Failure) 
+Desired survivor size 26214400 bytes, new threshold 8 (max 15)
+[PSYoungGen: 29696K->1760K(32256K)] 60973K->42253K(306688K), 0,0064249 secs] [Times: user=0,01 sys=0,00, real=0,00 secs] 
+1,754: Total time for which application threads were stopped: 0,0091604 seconds, Stopping threads took: 0,0025202 seconds
+1,757: Application time: 0,0025515 seconds
+1,757: [GC (Allocation Failure) 
+Desired survivor size 25165824 bytes, new threshold 9 (max 15)
+[PSYoungGen: 21912K->2080K(64000K)] 62405K->42573K(338432K), 0,0075056 secs] [Times: user=0,01 sys=0,01, real=0,00 secs] 
+1,765: Total time for which application threads were stopped: 0,0080448 seconds, Stopping threads took: 0,0003220 seconds
+1,770: Application time: 0,0048488 seconds
+1,770: [GC (Allocation Failure) 
+Desired survivor size 23592960 bytes, new threshold 10 (max 15)
+[PSYoungGen: 37354K->2912K(62976K)] 77847K->43405K(337408K), 0,0105509 secs] [Times: user=0,03 sys=0,00, real=0,01 secs] 
+1,781: Total time for which application threads were stopped: 0,0111413 seconds, Stopping threads took: 0,0003931 seconds
+1,787: Application time: 0,0056144 seconds
+1,787: [GC (Allocation Failure) 
+Desired survivor size 22544384 bytes, new threshold 11 (max 15)
+[PSYoungGen: 38461K->2976K(78336K)] 78954K->43469K(352768K), 0,0108350 secs] [Times: user=0,01 sys=0,01, real=0,02 secs] 
+1,798: Total time for which application threads were stopped: 0,0114005 seconds, Stopping threads took: 0,0003709 seconds
+1,816: Application time: 0,0175331 seconds
+1,816: [GC (Allocation Failure) 
+Desired survivor size 21495808 bytes, new threshold 12 (max 15)
+[PSYoungGen: 57816K->3552K(77824K)] 98309K->44045K(352256K), 0,0130066 secs] [Times: user=0,01 sys=0,01, real=0,01 secs] 
+1,829: Total time for which application threads were stopped: 0,0136780 seconds, Stopping threads took: 0,0004105 seconds
+1,840: Application time: 0,0110377 seconds
+1,841: [GC (Allocation Failure) 
+Desired survivor size 19922944 bytes, new threshold 13 (max 15)
+[PSYoungGen: 53395K->5312K(91136K)] 93888K->45805K(365568K), 0,0176098 secs] [Times: user=0,02 sys=0,00, real=0,02 secs] 
+1,859: Total time for which application threads were stopped: 0,0185443 seconds, Stopping threads took: 0,0006617 seconds
+1,871: Application time: 0,0123137 seconds
+1,872: [GC (Allocation Failure) 
+Desired survivor size 18874368 bytes, new threshold 13 (max 15)
+[PSYoungGen: 75532K->6560K(91648K)] 116025K->47053K(366080K), 0,0201732 secs] [Times: user=0,04 sys=0,00, real=0,02 secs] 
+1,892: Total time for which application threads were stopped: 0,0207742 seconds, Stopping threads took: 0,0003872 seconds
+1,900: Application time: 0,0081230 seconds
+1,900: [GC (Allocation Failure) 
+Desired survivor size 18350080 bytes, new threshold 13 (max 15)
+[PSYoungGen: 73021K->8192K(113664K)] 113514K->48685K(388096K), 0,0297557 secs] [Times: user=0,06 sys=0,00, real=0,03 secs] 
+1,930: Total time for which application threads were stopped: 0,0301729 seconds, Stopping threads took: 0,0002046 seconds
+1,950: Application time: 0,0192445 seconds
+1,951: [GC (Allocation Failure) 
+Desired survivor size 18350080 bytes, new threshold 13 (max 15)
+[PSYoungGen: 101772K->9856K(113152K)] 142265K->50349K(387584K), 0,0310129 secs] [Times: user=0,05 sys=0,01, real=0,03 secs] 
+1,982: Total time for which application threads were stopped: 0,0326248 seconds, Stopping threads took: 0,0013432 seconds
+2,003: Application time: 0,0203835 seconds
+2,003: [GC (Allocation Failure) 
+Desired survivor size 20447232 bytes, new threshold 12 (max 15)
+[PSYoungGen: 90787K->14208K(144896K)] 131280K->54701K(419328K), 0,0515321 secs] [Times: user=0,08 sys=0,02, real=0,05 secs] 
+2,055: Total time for which application threads were stopped: 0,0522390 seconds, Stopping threads took: 0,0004580 seconds
+2,074: Application time: 0,0194312 seconds
+2,075: [GC (Allocation Failure) 
+Desired survivor size 23592960 bytes, new threshold 11 (max 15)
+[PSYoungGen: 130615K->19680K(146944K)] 171109K->60173K(421376K), 0,0836997 secs] [Times: user=0,14 sys=0,02, real=0,09 secs] 
+2,159: Total time for which application threads were stopped: 0,0843315 seconds, Stopping threads took: 0,0003985 seconds
+2,193: Application time: 0,0343732 seconds
+2,196: [GC (Allocation Failure) 
+Desired survivor size 23592960 bytes, new threshold 11 (max 15)
+[PSYoungGen: 141740K->32K(151552K)] 182233K->40533K(425984K), 0,0052900 secs] [Times: user=0,00 sys=0,00, real=0,00 secs] 
+2,201: Total time for which application threads were stopped: 0,0079974 seconds, Stopping threads took: 0,0024665 seconds
+2,226: Application time: 0,0251438 seconds
+2,228: [GC (Allocation Failure) 
+Desired survivor size 25165824 bytes, new threshold 12 (max 15)
+[PSYoungGen: 128544K->15360K(144384K)] 169045K->55861K(418816K), 0,0089875 secs] [Times: user=0,02 sys=0,00, real=0,01 secs] 
+2,237: Total time for which application threads were stopped: 0,0108688 seconds, Stopping threads took: 0,0015271 seconds
+2,251: Application time: 0,0140568 seconds
+2,256: [GC (Allocation Failure) 
+Desired survivor size 27787264 bytes, new threshold 13 (max 15)
+[PSYoungGen: 138008K->20480K(144896K)] 178509K->70197K(419328K), 0,0093446 secs] [Times: user=0,01 sys=0,00, real=0,00 secs] 
+2,265: Total time for which application threads were stopped: 0,0140585 seconds, Stopping threads took: 0,0044243 seconds
+2,278: Application time: 0,0125744 seconds
+2,280: [GC (Allocation Failure) 
+Desired survivor size 31981568 bytes, new threshold 14 (max 15)
+[PSYoungGen: 137680K->24768K(145408K)] 187398K->92917K(419840K), 0,0128499 secs] [Times: user=0,03 sys=0,00, real=0,01 secs] 
+2,293: Total time for which application threads were stopped: 0,0157965 seconds, Stopping threads took: 0,0027294 seconds
+2,304: Application time: 0,0104691 seconds
+2,308: [GC (Allocation Failure) 
+Desired survivor size 35651584 bytes, new threshold 15 (max 15)
+[PSYoungGen: 137522K->26112K(134144K)] 205672K->118837K(408576K), 0,0169925 secs] [Times: user=0,03 sys=0,00, real=0,01 secs] 
+2,325: Total time for which application threads were stopped: 0,0210715 seconds, Stopping threads took: 0,0038187 seconds
+2,334: Application time: 0,0094368 seconds
+2,338: [GC (Allocation Failure) 
+Desired survivor size 39845888 bytes, new threshold 15 (max 15)
+[PSYoungGen: 129343K->30176K(135168K)] 222068K->145429K(409600K), 0,0157480 secs] [Times: user=0,03 sys=0,00, real=0,01 secs] 
+2,354: Total time for which application threads were stopped: 0,0192827 seconds, Stopping threads took: 0,0033247 seconds
+2,365: Application time: 0,0109916 seconds
+2,366: [GC (Allocation Failure) 
+Desired survivor size 37748736 bytes, new threshold 15 (max 15)
+[PSYoungGen: 130127K->15840K(137728K)] 245381K->131093K(412160K), 0,0120336 secs] [Times: user=0,02 sys=0,00, real=0,02 secs] 
+2,379: Total time for which application threads were stopped: 0,0137645 seconds, Stopping threads took: 0,0014925 seconds
+2,385: Application time: 0,0066561 seconds
+2,389: [GC (Allocation Failure) 
+Desired survivor size 40894464 bytes, new threshold 15 (max 15)
+[PSYoungGen: 103187K->28160K(127488K)] 218441K->167989K(401920K), 0,0157199 secs] [Times: user=0,03 sys=0,00, real=0,01 secs] 
+2,405: Total time for which application threads were stopped: 0,0194923 seconds, Stopping threads took: 0,0035615 seconds
+2,417: Application time: 0,0122479 seconds
+2,418: [GC (Allocation Failure) 
+Desired survivor size 44040192 bytes, new threshold 15 (max 15)
+[PSYoungGen: 117793K->30528K(128512K)] 257622K->170357K(402944K), 0,0203469 secs] [Times: user=0,04 sys=0,00, real=0,02 secs] 
+2,439: Total time for which application threads were stopped: 0,0218104 seconds, Stopping threads took: 0,0011920 seconds
+2,449: Application time: 0,0102511 seconds
+2,451: [GC (Allocation Failure) 
+Desired survivor size 47185920 bytes, new threshold 15 (max 15)
+[PSYoungGen: 116366K->32320K(121344K)] 256196K->172149K(395776K), 0,0250281 secs] [Times: user=0,05 sys=0,00, real=0,03 secs] 
+2,476: Total time for which application threads were stopped: 0,0269553 seconds, Stopping threads took: 0,0016374 seconds
+2,486: Application time: 0,0102370 seconds
+2,489: [GC (Allocation Failure) 
+Desired survivor size 45088768 bytes, new threshold 14 (max 15)
+[PSYoungGen: 112776K->20832K(130560K)] 252606K->160661K(404992K), 0,0320623 secs] [Times: user=0,07 sys=0,00, real=0,03 secs] 
+2,521: Total time for which application threads were stopped: 0,0346691 seconds, Stopping threads took: 0,0024181 seconds
+2,529: Application time: 0,0086137 seconds
+2,532: [GC (Allocation Failure) 
+Desired survivor size 44040192 bytes, new threshold 13 (max 15)
+[PSYoungGen: 103054K->23136K(108032K)] 242883K->162965K(382464K), 0,0372570 secs] [Times: user=0,08 sys=0,00, real=0,04 secs] 
+2,569: Total time for which application threads were stopped: 0,0397878 seconds, Stopping threads took: 0,0023439 seconds
+2,580: Application time: 0,0103248 seconds
+2,581: [GC (Allocation Failure) 
+Desired survivor size 42467328 bytes, new threshold 12 (max 15)
+[PSYoungGen: 106564K->21632K(129024K)] 246393K->161461K(403456K), 0,0369321 secs] [Times: user=0,07 sys=0,00, real=0,04 secs] 
+2,618: Total time for which application threads were stopped: 0,0386143 seconds, Stopping threads took: 0,0014616 seconds
+2,627: Application time: 0,0091283 seconds
+2,629: [GC (Allocation Failure) 
+Desired survivor size 43515904 bytes, new threshold 11 (max 15)
+[PSYoungGen: 102009K->28832K(127488K)] 241838K->170685K(401920K), 0,0425426 secs] [Times: user=0,09 sys=0,00, real=0,04 secs] 
+2,672: Total time for which application threads were stopped: 0,0448170 seconds, Stopping threads took: 0,0020406 seconds
+2,683: Application time: 0,0105574 seconds
+2,684: [GC (Allocation Failure) 
+Desired survivor size 45088768 bytes, new threshold 10 (max 15)
+[PSYoungGen: 108150K->30272K(129024K)] 250003K->173365K(403456K), 0,0394079 secs] [Times: user=0,07 sys=0,00, real=0,04 secs] 
+2,723: Total time for which application threads were stopped: 0,0407510 seconds, Stopping threads took: 0,0010535 seconds
+2,733: Application time: 0,0091133 seconds
+2,734: [GC (Allocation Failure) 
+Desired survivor size 45088768 bytes, new threshold 9 (max 15)
+[PSYoungGen: 114538K->9632K(130560K)] 257631K->153021K(404992K), 0,0327249 secs] [Times: user=0,06 sys=0,00, real=0,03 secs] 
+2,767: Total time for which application threads were stopped: 0,0342438 seconds, Stopping threads took: 0,0013181 seconds
+2,778: Application time: 0,0109083 seconds
+2,778: [GC (Allocation Failure) 
+Desired survivor size 44040192 bytes, new threshold 8 (max 15)
+[PSYoungGen: 96160K->10368K(128512K)] 239549K->153757K(402944K), 0,0349957 secs] [Times: user=0,07 sys=0,00, real=0,03 secs] 
+2,813: Total time for which application threads were stopped: 0,0356583 seconds, Stopping threads took: 0,0004467 seconds
+2,823: Application time: 0,0100057 seconds
+2,825: [GC (Allocation Failure) 
+Desired survivor size 44040192 bytes, new threshold 7 (max 15)
+[PSYoungGen: 96186K->7936K(129536K)] 239576K->155533K(403968K), 0,0356397 secs] [Times: user=0,07 sys=0,00, real=0,04 secs] 
+2,860: Total time for which application threads were stopped: 0,0370697 seconds, Stopping threads took: 0,0011528 seconds
+2,870: Application time: 0,0090421 seconds
+2,874: [GC (Allocation Failure) 
+Desired survivor size 41418752 bytes, new threshold 6 (max 15)
+[PSYoungGen: 90801K->18496K(126464K)] 238399K->169213K(400896K), 0,0293033 secs] [Times: user=0,05 sys=0,00, real=0,03 secs] 
+2,904: Total time for which application threads were stopped: 0,0343792 seconds, Stopping threads took: 0,0048062 seconds
+2,913: Application time: 0,0089060 seconds
+2,916: [GC (Allocation Failure) 
+Desired survivor size 41418752 bytes, new threshold 5 (max 15)
+[PSYoungGen: 103493K->6624K(129024K)] 254210K->158933K(403456K), 0,0228101 secs] [Times: user=0,04 sys=0,01, real=0,02 secs] 
+2,939: Total time for which application threads were stopped: 0,0264112 seconds, Stopping threads took: 0,0033356 seconds
+2,948: Application time: 0,0086758 seconds
+2,952: [GC (Allocation Failure) 
+Desired survivor size 39321600 bytes, new threshold 4 (max 15)
+[PSYoungGen: 94052K->18304K(130048K)] 246361K->171373K(404480K), 0,0195396 secs] [Times: user=0,03 sys=0,00, real=0,02 secs] 
+2,971: Total time for which application threads were stopped: 0,0233704 seconds, Stopping threads took: 0,0036205 seconds
+2,981: Application time: 0,0097760 seconds
+2,986: [GC (Allocation Failure) 
+Desired survivor size 40370176 bytes, new threshold 3 (max 15)
+[PSYoungGen: 109229K->26208K(132096K)] 262298K->181765K(406528K), 0,0228420 secs] [Times: user=0,05 sys=0,00, real=0,03 secs] 
+3,009: Total time for which application threads were stopped: 0,0275431 seconds, Stopping threads took: 0,0044758 seconds
+3,018: Application time: 0,0094702 seconds
+3,024: [GC (Allocation Failure) 
+Desired survivor size 38273024 bytes, new threshold 2 (max 15)
+[PSYoungGen: 114760K->17920K(133120K)] 270317K->176853K(407552K), 0,0169900 secs] [Times: user=0,03 sys=0,00, real=0,02 secs] 
+3,042: Total time for which application threads were stopped: 0,0234292 seconds, Stopping threads took: 0,0061210 seconds
+3,052: Application time: 0,0104758 seconds
+3,053: [GC (Allocation Failure) 
+Desired survivor size 37748736 bytes, new threshold 2 (max 15)
+[PSYoungGen: 109990K->10496K(134144K)] 268923K->176893K(408576K), 0,0067854 secs] [Times: user=0,02 sys=0,00, real=0,01 secs] 
+3,060: Total time for which application threads were stopped: 0,0081021 seconds, Stopping threads took: 0,0011609 seconds
+3,067: Application time: 0,0065898 seconds
+3,070: [GC (Allocation Failure) 
+Desired survivor size 37224448 bytes, new threshold 2 (max 15)
+[PSYoungGen: 93706K->21536K(135680K)] 260103K->188141K(410112K), 0,0051494 secs] [Times: user=0,01 sys=0,00, real=0,00 secs] 
+3,075: Total time for which application threads were stopped: 0,0085808 seconds, Stopping threads took: 0,0032529 seconds
+3,084: Application time: 0,0088408 seconds
+3,089: [GC (Allocation Failure) 
+Desired survivor size 41418752 bytes, new threshold 3 (max 15)
+[PSYoungGen: 121888K->32800K(133632K)] 288493K->209677K(408064K), 0,0070978 secs] [Times: user=0,02 sys=0,00, real=0,01 secs] 
+3,096: Total time for which application threads were stopped: 0,0123649 seconds, Stopping threads took: 0,0051013 seconds
+3,110: Application time: 0,0135589 seconds
+3,113: [GC (Allocation Failure) 
+Desired survivor size 44564480 bytes, new threshold 4 (max 15)
+[PSYoungGen: 130472K->33728K(128000K)] 307349K->225965K(402432K), 0,0174502 secs] [Times: user=0,01 sys=0,01, real=0,02 secs] 
+3,131: Total time for which application threads were stopped: 0,0204751 seconds, Stopping threads took: 0,0028556 seconds
+Heap
+ PSYoungGen      total 128000K, used 107628K [0x00000000f5580000, 0x0000000100000000, 0x0000000100000000)
+  eden space 87552K, 84% used [0x00000000f5580000,0x00000000f9dab278,0x00000000fab00000)
+  from space 40448K, 83% used [0x00000000fd880000,0x00000000ff970030,0x0000000100000000)
+  to   space 43520K, 0% used [0x00000000fab00000,0x00000000fab00000,0x00000000fd580000)
+ ParOldGen       total 274432K, used 192237K [0x00000000e0000000, 0x00000000f0c00000, 0x00000000f5580000)
+  object space 274432K, 70% used [0x00000000e0000000,0x00000000ebbbb5c8,0x00000000f0c00000)
+ Metaspace       used 2715K, capacity 4496K, committed 4864K, reserved 1056768K
+  class space    used 292K, capacity 388K, committed 512K, reserved 1048576K
+3,157: Application time: 0,0264612 seconds

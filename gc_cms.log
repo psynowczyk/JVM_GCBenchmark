@@ -1,0 +1,881 @@
+Java HotSpot(TM) 64-Bit Server VM (25.73-b02) for linux-amd64 JRE (1.8.0_73-b02), built on Jan 29 2016 17:39:45 by "java_re" with gcc 4.3.0 20080428 (Red Hat 4.3.0-8)
+Memory: 4k page, physical 4047436k(958500k free), swap 2095100k(2049456k free)
+CommandLine flags: -XX:InitialHeapSize=64758976 -XX:MaxHeapSize=536870912 -XX:MaxNewSize=174485504 -XX:MaxTenuringThreshold=6 -XX:OldPLABSize=16 -XX:+PrintGC -XX:+PrintGCApplicationConcurrentTime -XX:+PrintGCApplicationStoppedTime -XX:+PrintGCDetails -XX:+PrintGCTimeStamps -XX:+PrintTenuringDistribution -XX:+UseCompressedClassPointers -XX:+UseCompressedOops -XX:+UseConcMarkSweepGC -XX:+UseParNewGC 
+0,077: Application time: 0,0155081 seconds
+0,077: [GC (Allocation Failure) 0,108: [ParNew
+Desired survivor size 1081344 bytes, new threshold 6 (max 6)
+- age   1:     290352 bytes,     290352 total
+: 16373K->285K(19008K), 0,0016330 secs] 16373K->285K(61376K), 0,0326834 secs] [Times: user=0,00 sys=0,00, real=0,03 secs] 
+0,110: Total time for which application threads were stopped: 0,0329327 seconds, Stopping threads took: 0,0001090 seconds
+0,112: Application time: 0,0019992 seconds
+0,113: [GC (Allocation Failure) 0,113: [ParNew
+Desired survivor size 1081344 bytes, new threshold 6 (max 6)
+- age   1:         16 bytes,         16 total
+- age   2:     288392 bytes,     288408 total
+: 15645K->443K(19008K), 0,0015817 secs] 15645K->443K(61376K), 0,0016348 secs] [Times: user=0,00 sys=0,00, real=0,00 secs] 
+0,114: Total time for which application threads were stopped: 0,0021992 seconds, Stopping threads took: 0,0004342 seconds
+0,117: Application time: 0,0022455 seconds
+0,117: [GC (Allocation Failure) 0,117: [ParNew
+Desired survivor size 1081344 bytes, new threshold 6 (max 6)
+- age   1:       9088 bytes,       9088 total
+- age   3:     288368 bytes,     297456 total
+: 15812K->400K(19008K), 0,0010941 secs] 15812K->400K(61376K), 0,0011479 secs] [Times: user=0,00 sys=0,00, real=0,00 secs] 
+0,118: Total time for which application threads were stopped: 0,0014417 seconds, Stopping threads took: 0,0001492 seconds
+0,120: Application time: 0,0020125 seconds
+0,121: [GC (Allocation Failure) 0,121: [ParNew
+Desired survivor size 1081344 bytes, new threshold 6 (max 6)
+- age   1:     113944 bytes,     113944 total
+- age   2:       9072 bytes,     123016 total
+- age   4:     288344 bytes,     411360 total
+: 15932K->426K(19008K), 0,0014432 secs] 15932K->426K(61376K), 0,0015189 secs] [Times: user=0,00 sys=0,00, real=0,00 secs] 
+0,122: Total time for which application threads were stopped: 0,0023095 seconds, Stopping threads took: 0,0006532 seconds
+0,124: Application time: 0,0019997 seconds
+0,125: [GC (Allocation Failure) 0,125: [ParNew
+Desired survivor size 1081344 bytes, new threshold 6 (max 6)
+- age   1:     148568 bytes,     148568 total
+- age   2:     113928 bytes,     262496 total
+- age   3:       9072 bytes,     271568 total
+- age   5:     288320 bytes,     559888 total
+: 16011K->744K(19008K), 0,0016018 secs] 16011K->744K(61376K), 0,0016625 secs] [Times: user=0,00 sys=0,00, real=0,00 secs] 
+0,126: Total time for which application threads were stopped: 0,0020575 seconds, Stopping threads took: 0,0002594 seconds
+0,129: Application time: 0,0020998 seconds
+0,129: [GC (Allocation Failure) 0,129: [ParNew
+Desired survivor size 1081344 bytes, new threshold 6 (max 6)
+- age   1:      52840 bytes,      52840 total
+- age   2:     148552 bytes,     201392 total
+- age   3:     113928 bytes,     315320 total
+- age   4:       9072 bytes,     324392 total
+- age   6:     288296 bytes,     612688 total
+: 16179K->1006K(19008K), 0,0010963 secs] 16179K->1006K(61376K), 0,0011739 secs] [Times: user=0,00 sys=0,00, real=0,00 secs] 
+0,130: Total time for which application threads were stopped: 0,0014894 seconds, Stopping threads took: 0,0001916 seconds
+0,132: Application time: 0,0020927 seconds
+0,132: [GC (Allocation Failure) 0,132: [ParNew
+Desired survivor size 1081344 bytes, new threshold 6 (max 6)
+- age   1:     119320 bytes,     119320 total
+- age   2:      52824 bytes,     172144 total
+- age   3:     148552 bytes,     320696 total
+- age   4:     113928 bytes,     434624 total
+- age   5:       9072 bytes,     443696 total
+: 16512K->700K(19008K), 0,0026141 secs] 16512K->989K(61376K), 0,0026967 secs] [Times: user=0,00 sys=0,00, real=0,00 secs] 
+0,135: Total time for which application threads were stopped: 0,0030010 seconds, Stopping threads took: 0,0001717 seconds
+0,137: Application time: 0,0021143 seconds
+0,138: [GC (Allocation Failure) 0,138: [ParNew
+Desired survivor size 1081344 bytes, new threshold 6 (max 6)
+- age   1:      89104 bytes,      89104 total
+- age   2:     119304 bytes,     208408 total
+- age   3:      52824 bytes,     261232 total
+- age   4:     148552 bytes,     409784 total
+- age   5:     113928 bytes,     523712 total
+- age   6:       9072 bytes,     532784 total
+: 16158K->825K(19008K), 0,0018158 secs] 16448K->1114K(61376K), 0,0018666 secs] [Times: user=0,00 sys=0,00, real=0,00 secs] 
+0,140: Total time for which application threads were stopped: 0,0023855 seconds, Stopping threads took: 0,0003658 seconds
+0,142: Application time: 0,0021504 seconds
+0,143: [GC (Allocation Failure) 0,143: [ParNew
+Desired survivor size 1081344 bytes, new threshold 6 (max 6)
+- age   1:     156448 bytes,     156448 total
+- age   2:      89088 bytes,     245536 total
+- age   3:     119304 bytes,     364840 total
+- age   4:      52824 bytes,     417664 total
+- age   5:     148552 bytes,     566216 total
+- age   6:     113928 bytes,     680144 total
+: 16338K->986K(19008K), 0,0029969 secs] 16628K->1284K(61376K), 0,0030688 secs] [Times: user=0,01 sys=0,00, real=0,00 secs] 
+0,146: Total time for which application threads were stopped: 0,0046480 seconds, Stopping threads took: 0,0008887 seconds
+0,148: Application time: 0,0018450 seconds
+0,149: [GC (Allocation Failure) 0,150: [ParNew
+Desired survivor size 1081344 bytes, new threshold 6 (max 6)
+- age   1:     150808 bytes,     150808 total
+- age   2:     156432 bytes,     307240 total
+- age   3:      89088 bytes,     396328 total
+- age   4:     119304 bytes,     515632 total
+- age   5:      52824 bytes,     568456 total
+- age   6:     148552 bytes,     717008 total
+: 16501K->1243K(19008K), 0,0027765 secs] 16799K->1652K(61376K), 0,0028267 secs] [Times: user=0,00 sys=0,00, real=0,00 secs] 
+0,152: Total time for which application threads were stopped: 0,0040923 seconds, Stopping threads took: 0,0010930 seconds
+0,155: Application time: 0,0025878 seconds
+0,155: [GC (Allocation Failure) 0,155: [ParNew
+Desired survivor size 1081344 bytes, new threshold 6 (max 6)
+- age   1:     463864 bytes,     463864 total
+- age   2:     150792 bytes,     614656 total
+- age   3:     156432 bytes,     771088 total
+- age   4:      89088 bytes,     860176 total
+- age   5:     119304 bytes,     979480 total
+- age   6:      52824 bytes,    1032304 total
+: 17064K->1253K(19008K), 0,0047234 secs] 17474K->1808K(61376K), 0,0048185 secs] [Times: user=0,00 sys=0,00, real=0,01 secs] 
+0,160: Total time for which application threads were stopped: 0,0050601 seconds, Stopping threads took: 0,0001627 seconds
+0,163: Application time: 0,0028283 seconds
+0,163: [GC (Allocation Failure) 0,163: [ParNew
+Desired survivor size 1081344 bytes, new threshold 6 (max 6)
+- age   1:     138256 bytes,     138256 total
+- age   2:     463848 bytes,     602104 total
+- age   3:     150792 bytes,     752896 total
+- age   4:     156432 bytes,     909328 total
+- age   5:      89088 bytes,     998416 total
+- age   6:     119304 bytes,    1117720 total
+: 16753K->1721K(19008K), 0,0038094 secs] 17308K->2327K(61376K), 0,0039137 secs] [Times: user=0,01 sys=0,00, real=0,00 secs] 
+0,167: Total time for which application threads were stopped: 0,0041922 seconds, Stopping threads took: 0,0001403 seconds
+0,169: Application time: 0,0021765 seconds
+0,169: [GC (Allocation Failure) 0,170: [ParNew
+Desired survivor size 1081344 bytes, new threshold 5 (max 6)
+- age   1:     294664 bytes,     294664 total
+- age   2:     138240 bytes,     432904 total
+- age   3:     463848 bytes,     896752 total
+- age   4:     150792 bytes,    1047544 total
+- age   5:     156432 bytes,    1203976 total
+- age   6:      89088 bytes,    1293064 total
+: 17377K->2067K(19008K), 0,0044416 secs] 17983K->2790K(61376K), 0,0045018 secs] [Times: user=0,01 sys=0,00, real=0,00 secs] 
+0,174: Total time for which application threads were stopped: 0,0048022 seconds, Stopping threads took: 0,0001660 seconds
+0,177: Application time: 0,0030046 seconds
+0,177: [GC (Allocation Failure) 0,177: [ParNew
+Desired survivor size 1081344 bytes, new threshold 4 (max 6)
+- age   1:     632656 bytes,     632656 total
+- age   2:     294648 bytes,     927304 total
+- age   3:     138240 bytes,    1065544 total
+- age   4:     463848 bytes,    1529392 total
+- age   5:     150792 bytes,    1680184 total
+: 18141K->2112K(19008K), 0,0062688 secs] 18864K->3160K(61376K), 0,0063462 secs] [Times: user=0,01 sys=0,00, real=0,00 secs] 
+0,184: Total time for which application threads were stopped: 0,0067231 seconds, Stopping threads took: 0,0002245 seconds
+0,190: Application time: 0,0058867 seconds
+0,190: [GC (Allocation Failure) 0,190: [ParNew
+Desired survivor size 1081344 bytes, new threshold 2 (max 6)
+- age   1:     746392 bytes,     746392 total
+- age   2:     523440 bytes,    1269832 total
+- age   3:     294648 bytes,    1564480 total
+- age   4:     138240 bytes,    1702720 total
+: 18213K->2112K(19008K), 0,0064639 secs] 19261K->3867K(61376K), 0,0065420 secs] [Times: user=0,02 sys=0,00, real=0,00 secs] 
+0,197: Total time for which application threads were stopped: 0,0068638 seconds, Stopping threads took: 0,0001710 seconds
+0,199: Application time: 0,0020613 seconds
+0,199: [GC (Allocation Failure) 0,199: [ParNew
+Desired survivor size 1081344 bytes, new threshold 2 (max 6)
+- age   1:     581728 bytes,     581728 total
+- age   2:     746376 bytes,    1328104 total
+: 18243K->2112K(19008K), 0,0049823 secs] 19999K->5003K(61376K), 0,0050606 secs] [Times: user=0,01 sys=0,00, real=0,00 secs] 
+0,204: Total time for which application threads were stopped: 0,0053452 seconds, Stopping threads took: 0,0001406 seconds
+0,207: Application time: 0,0027638 seconds
+0,208: [GC (Allocation Failure) 0,208: [ParNew
+Desired survivor size 1081344 bytes, new threshold 6 (max 6)
+- age   1:         16 bytes,         16 total
+- age   2:     581712 bytes,     581728 total
+: 17472K->690K(19008K), 0,0053307 secs] 20363K->4310K(61376K), 0,0053894 secs] [Times: user=0,01 sys=0,00, real=0,01 secs] 
+0,213: Total time for which application threads were stopped: 0,0066931 seconds, Stopping threads took: 0,0011856 seconds
+0,215: Application time: 0,0020096 seconds
+0,217: [GC (Allocation Failure) 0,217: [ParNew
+Desired survivor size 1081344 bytes, new threshold 6 (max 6)
+- age   1:     353224 bytes,     353224 total
+- age   3:     581712 bytes,     934936 total
+: 16408K->1156K(19008K), 0,0022688 secs] 20029K->4777K(61376K), 0,0023380 secs] [Times: user=0,00 sys=0,00, real=0,01 secs] 
+0,219: Total time for which application threads were stopped: 0,0035488 seconds, Stopping threads took: 0,0011009 seconds
+0,221: Application time: 0,0019990 seconds
+0,222: [GC (Allocation Failure) 0,222: [ParNew
+Desired survivor size 1081344 bytes, new threshold 6 (max 6)
+- age   1:         16 bytes,         16 total
+- age   2:     353208 bytes,     353224 total
+- age   4:     581712 bytes,     934936 total
+: 16516K->1316K(19008K), 0,0026764 secs] 20137K->4937K(61376K), 0,0027267 secs] [Times: user=0,01 sys=0,00, real=0,00 secs] 
+0,225: Total time for which application threads were stopped: 0,0036684 seconds, Stopping threads took: 0,0008329 seconds
+0,227: Application time: 0,0019689 seconds
+0,227: [GC (Allocation Failure) 0,227: [ParNew
+Desired survivor size 1081344 bytes, new threshold 3 (max 6)
+- age   1:     804736 bytes,     804736 total
+- age   3:     353208 bytes,    1157944 total
+- age   5:     581712 bytes,    1739656 total
+: 17463K->2112K(19008K), 0,0034435 secs] 21084K->5732K(61376K), 0,0035159 secs] [Times: user=0,00 sys=0,00, real=0,01 secs] 
+0,230: Total time for which application threads were stopped: 0,0037371 seconds, Stopping threads took: 0,0001393 seconds
+0,232: Application time: 0,0020595 seconds
+0,233: [GC (Allocation Failure) 0,233: [ParNew
+Desired survivor size 1081344 bytes, new threshold 2 (max 6)
+- age   1:     610552 bytes,     610552 total
+- age   2:     804720 bytes,    1415272 total
+: 18082K->2112K(19008K), 0,0056203 secs] 21702K->6645K(61376K), 0,0056930 secs] [Times: user=0,00 sys=0,00, real=0,01 secs] 
+0,238: Total time for which application threads were stopped: 0,0059875 seconds, Stopping threads took: 0,0001630 seconds
+0,240: Application time: 0,0019902 seconds
+0,241: [GC (Allocation Failure) 0,241: [ParNew
+Desired survivor size 1081344 bytes, new threshold 2 (max 6)
+- age   1:    1031512 bytes,    1031512 total
+- age   2:     610536 bytes,    1642048 total
+: 18494K->2112K(19008K), 0,0079522 secs] 23028K->7431K(61376K), 0,0080236 secs] [Times: user=0,01 sys=0,00, real=0,01 secs] 
+0,249: Total time for which application threads were stopped: 0,0087490 seconds, Stopping threads took: 0,0006090 seconds
+0,251: Application time: 0,0020095 seconds
+0,251: [GC (Allocation Failure) 0,251: [ParNew
+Desired survivor size 1081344 bytes, new threshold 2 (max 6)
+- age   1:     334744 bytes,     334744 total
+- age   2:    1031496 bytes,    1366240 total
+: 18492K->2112K(19008K), 0,0292557 secs] 23811K->8720K(61376K), 0,0293480 secs] [Times: user=0,04 sys=0,00, real=0,03 secs] 
+0,281: Total time for which application threads were stopped: 0,0296499 seconds, Stopping threads took: 0,0002162 seconds
+0,283: Application time: 0,0020583 seconds
+0,283: [GC (Allocation Failure) 0,283: [ParNew
+Desired survivor size 1081344 bytes, new threshold 2 (max 6)
+- age   1:    1071376 bytes,    1071376 total
+- age   2:     334728 bytes,    1406104 total
+: 18519K->2084K(19008K), 0,0060946 secs] 25127K->9699K(61376K), 0,0061553 secs] [Times: user=0,01 sys=0,00, real=0,01 secs] 
+0,289: Total time for which application threads were stopped: 0,0064197 seconds, Stopping threads took: 0,0001506 seconds
+0,291: Application time: 0,0020718 seconds
+0,292: [GC (Allocation Failure) 0,292: [ParNew
+Desired survivor size 1081344 bytes, new threshold 2 (max 6)
+- age   1:     779152 bytes,     779152 total
+- age   2:    1071360 bytes,    1850512 total
+: 18501K->2112K(19008K), 0,0065889 secs] 26117K->10345K(61376K), 0,0066900 secs] [Times: user=0,02 sys=0,00, real=0,01 secs] 
+0,298: Total time for which application threads were stopped: 0,0069513 seconds, Stopping threads took: 0,0001308 seconds
+0,300: Application time: 0,0019437 seconds
+0,300: [GC (Allocation Failure) 0,301: [ParNew
+Desired survivor size 1081344 bytes, new threshold 2 (max 6)
+- age   1:     996112 bytes,     996112 total
+- age   2:     779136 bytes,    1775248 total
+: 18466K->2112K(19008K), 0,0066624 secs] 26700K->11392K(61376K), 0,0067383 secs] [Times: user=0,02 sys=0,00, real=0,00 secs] 
+0,307: Total time for which application threads were stopped: 0,0069782 seconds, Stopping threads took: 0,0001531 seconds
+0,309: Application time: 0,0019833 seconds
+0,310: [GC (Allocation Failure) 0,310: [ParNew
+Desired survivor size 1081344 bytes, new threshold 2 (max 6)
+- age   1:     283336 bytes,     283336 total
+- age   2:     996096 bytes,    1279432 total
+: 18455K->2112K(19008K), 0,0069669 secs] 27735K->12838K(61376K), 0,0070256 secs] [Times: user=0,01 sys=0,00, real=0,00 secs] 
+0,317: Total time for which application threads were stopped: 0,0073477 seconds, Stopping threads took: 0,0001984 seconds
+0,319: Application time: 0,0019782 seconds
+0,319: [GC (Allocation Failure) 0,319: [ParNew
+Desired survivor size 1081344 bytes, new threshold 2 (max 6)
+- age   1:     941752 bytes,     941752 total
+- age   2:     283320 bytes,    1225072 total
+: 18412K->1799K(19008K), 0,0053839 secs] 29138K->13498K(61376K), 0,0054646 secs] [Times: user=0,01 sys=0,00, real=0,00 secs] 
+0,324: Total time for which application threads were stopped: 0,0058196 seconds, Stopping threads took: 0,0001633 seconds
+0,326: Application time: 0,0019566 seconds
+0,327: [GC (Allocation Failure) 0,327: [ParNew
+Desired survivor size 1081344 bytes, new threshold 2 (max 6)
+- age   1:    1006840 bytes,    1006840 total
+- age   2:     941736 bytes,    1948576 total
+: 18163K->2112K(19008K), 0,0055759 secs] 29862K->14087K(61376K), 0,0056833 secs] [Times: user=0,01 sys=0,00, real=0,01 secs] 
+0,332: Total time for which application threads were stopped: 0,0060064 seconds, Stopping threads took: 0,0001593 seconds
+0,334: Application time: 0,0019464 seconds
+0,335: [GC (Allocation Failure) 0,335: [ParNew
+Desired survivor size 1081344 bytes, new threshold 2 (max 6)
+- age   1:     487504 bytes,     487504 total
+- age   2:    1006824 bytes,    1494328 total
+: 18427K->2112K(19008K), 0,0132426 secs] 30403K->15486K(61376K), 0,0133250 secs] [Times: user=0,03 sys=0,00, real=0,01 secs] 
+0,348: Total time for which application threads were stopped: 0,0137082 seconds, Stopping threads took: 0,0002163 seconds
+0,350: Application time: 0,0019326 seconds
+0,350: [GC (Allocation Failure) 0,350: [ParNew
+Desired survivor size 1081344 bytes, new threshold 2 (max 6)
+- age   1:     948664 bytes,     948664 total
+- age   2:     487488 bytes,    1436152 total
+: 18399K->2112K(19008K), 0,0058307 secs] 31773K->16469K(61376K), 0,0058979 secs] [Times: user=0,01 sys=0,00, real=0,00 secs] 
+0,356: Total time for which application threads were stopped: 0,0062498 seconds, Stopping threads took: 0,0002201 seconds
+0,358: Application time: 0,0019995 seconds
+0,359: [GC (Allocation Failure) 0,359: [ParNew
+Desired survivor size 1081344 bytes, new threshold 2 (max 6)
+- age   1:     576856 bytes,     576856 total
+- age   2:     948648 bytes,    1525504 total
+: 18391K->2112K(19008K), 0,0088051 secs] 32749K->17301K(61376K), 0,0088870 secs] [Times: user=0,01 sys=0,00, real=0,00 secs] 
+0,367: Total time for which application threads were stopped: 0,0092470 seconds, Stopping threads took: 0,0002323 seconds
+0,370: Application time: 0,0026909 seconds
+0,370: [GC (Allocation Failure) 0,370: [ParNew
+Desired survivor size 1081344 bytes, new threshold 1 (max 6)
+- age   1:    1369528 bytes,    1369528 total
+- age   2:     333024 bytes,    1702552 total
+: 18810K->2112K(19008K), 0,0067313 secs] 33999K->18465K(61376K), 0,0068083 secs] [Times: user=0,01 sys=0,00, real=0,01 secs] 
+0,377: Total time for which application threads were stopped: 0,0070869 seconds, Stopping threads took: 0,0001512 seconds
+0,379: Application time: 0,0019848 seconds
+0,380: [GC (Allocation Failure) 0,380: [ParNew
+Desired survivor size 1081344 bytes, new threshold 6 (max 6)
+- age   1:     948568 bytes,     948568 total
+: 18421K->2112K(19008K), 0,0090966 secs] 34775K->20128K(61376K), 0,0091872 secs] [Times: user=0,02 sys=0,00, real=0,00 secs] 
+0,389: Total time for which application threads were stopped: 0,0095573 seconds, Stopping threads took: 0,0002139 seconds
+0,391: Application time: 0,0020323 seconds
+0,391: [GC (Allocation Failure) 0,391: [ParNew
+Desired survivor size 1081344 bytes, new threshold 2 (max 6)
+- age   1:    1019752 bytes,    1019752 total
+- age   2:     948552 bytes,    1968304 total
+: 18490K->2112K(19008K), 0,0055241 secs] 36506K->20128K(61376K), 0,0055789 secs] [Times: user=0,01 sys=0,00, real=0,00 secs] 
+0,397: Total time for which application threads were stopped: 0,0059279 seconds, Stopping threads took: 0,0001945 seconds
+0,399: Application time: 0,0020300 seconds
+0,399: [GC (Allocation Failure) 0,399: [ParNew
+Desired survivor size 1081344 bytes, new threshold 2 (max 6)
+- age   1:    1052536 bytes,    1052536 total
+- age   2:    1019736 bytes,    2072272 total
+: 18500K->2112K(19008K), 0,0126113 secs] 36516K->21054K(61376K), 0,0127170 secs] [Times: user=0,02 sys=0,00, real=0,01 secs] 
+0,412: Total time for which application threads were stopped: 0,0130374 seconds, Stopping threads took: 0,0002106 seconds
+0,415: Application time: 0,0027248 seconds
+0,415: [GC (Allocation Failure) 0,415: [ParNew
+Desired survivor size 1081344 bytes, new threshold 2 (max 6)
+- age   1:     727888 bytes,     727888 total
+- age   2:    1052520 bytes,    1780408 total
+: 18183K->2112K(19008K), 0,0104924 secs] 37125K->22050K(61376K), 0,0105732 secs] [Times: user=0,02 sys=0,00, real=0,01 secs] 
+0,425: Total time for which application threads were stopped: 0,0108745 seconds, Stopping threads took: 0,0002074 seconds
+0,428: Application time: 0,0020724 seconds
+0,428: [GC (Allocation Failure) 0,428: [ParNew
+Desired survivor size 1081344 bytes, new threshold 2 (max 6)
+- age   1:     520720 bytes,     520720 total
+- age   2:     727872 bytes,    1248592 total
+: 18451K->2112K(19008K), 0,0102865 secs] 38389K->23548K(61376K), 0,0103749 secs] [Times: user=0,02 sys=0,00, real=0,02 secs] 
+0,438: Total time for which application threads were stopped: 0,0106554 seconds, Stopping threads took: 0,0001883 seconds
+0,440: Application time: 0,0019434 seconds
+0,440: [GC (CMS Initial Mark) [1 CMS-initial-mark: 21436K(42368K)] 39875K(61376K), 0,0022477 secs] [Times: user=0,00 sys=0,01, real=0,00 secs] 
+0,443: Total time for which application threads were stopped: 0,0025309 seconds, Stopping threads took: 0,0001960 seconds
+0,443: [CMS-concurrent-mark-start]
+0,444: Application time: 0,0010849 seconds
+0,444: [GC (Allocation Failure) 0,444: [ParNew
+Desired survivor size 1081344 bytes, new threshold 2 (max 6)
+- age   1:    1009816 bytes,    1009816 total
+- age   2:     520704 bytes,    1530520 total
+: 18458K->2112K(19008K), 0,0083228 secs] 39895K->24259K(61376K), 0,0083975 secs] [Times: user=0,01 sys=0,01, real=0,01 secs] 
+0,452: Total time for which application threads were stopped: 0,0086354 seconds, Stopping threads took: 0,0001125 seconds
+0,454: Application time: 0,0019598 seconds
+0,454: [GC (Allocation Failure) 0,454: [ParNew
+Desired survivor size 1081344 bytes, new threshold 6 (max 6)
+- age   1:         16 bytes,         16 total
+- age   2:    1009800 bytes,    1009816 total
+: 17472K->2020K(19008K), 0,0037539 secs] 39619K->24675K(61376K), 0,0038069 secs] [Times: user=0,00 sys=0,00, real=0,01 secs] 
+0,458: Total time for which application threads were stopped: 0,0039862 seconds, Stopping threads took: 0,0000613 seconds
+0,464: Application time: 0,0054409 seconds
+0,464: [GC (Allocation Failure) 0,464: [ParNew
+Desired survivor size 1081344 bytes, new threshold 3 (max 6)
+- age   1:      96288 bytes,      96288 total
+- age   3:    1009800 bytes,    1106088 total
+: 17513K->1766K(19008K), 0,0033379 secs] 40169K->24421K(61376K), 0,0034236 secs] [Times: user=0,01 sys=0,00, real=0,00 secs] 
+0,467: Total time for which application threads were stopped: 0,0036695 seconds, Stopping threads took: 0,0001240 seconds
+0,477: Application time: 0,0096583 seconds
+0,477: [GC (Allocation Failure) 0,477: [ParNew
+Desired survivor size 1081344 bytes, new threshold 6 (max 6)
+- age   1:     290360 bytes,     290360 total
+- age   2:      79600 bytes,     369960 total
+: 18252K->1264K(19008K), 0,0106633 secs] 40908K->24906K(61376K), 0,0107974 secs] [Times: user=0,02 sys=0,00, real=0,00 secs] 
+0,488: Total time for which application threads were stopped: 0,0109883 seconds, Stopping threads took: 0,0000188 seconds
+0,500: [CMS-concurrent-mark: 0,022/0,057 secs] [Times: user=0,07 sys=0,02, real=0,06 secs] 
+0,500: [CMS-concurrent-preclean-start]
+0,532: [CMS-concurrent-preclean: 0,032/0,032 secs] [Times: user=0,04 sys=0,02, real=0,03 secs] 
+0,532: [CMS-concurrent-abortable-preclean-start]
+0,534: [CMS-concurrent-abortable-preclean: 0,003/0,003 secs] [Times: user=0,00 sys=0,00, real=0,00 secs] 
+0,535: Application time: 0,0465756 seconds
+0,536: [GC (CMS Final Remark) [YG occupancy: 14720 K (19008 K)]0,536: [Rescan (parallel) , 0,0163230 secs]0,553: [weak refs processing, 0,0000174 secs]0,553: [class unloading, 0,0002979 secs]0,553: [scrub symbol table, 0,0003497 secs]0,553: [scrub string table, 0,0001680 secs][1 CMS-remark: 23641K(42368K)] 38362K(61376K), 0,0173237 secs] [Times: user=0,03 sys=0,00, real=0,02 secs] 
+0,554: Total time for which application threads were stopped: 0,0188477 seconds, Stopping threads took: 0,0014375 seconds
+0,554: [CMS-concurrent-sweep-start]
+0,574: Application time: 0,0202357 seconds
+0,584: [GC (Allocation Failure) 0,584: [ParNew
+Desired survivor size 1081344 bytes, new threshold 1 (max 6)
+- age   1:    2026856 bytes,    2026856 total
+- age   2:       5752 bytes,    2032608 total
+- age   3:        352 bytes,    2032960 total
+: 17994K->2112K(19008K), 0,0293486 secs] 41345K->26794K(61376K), 0,0295435 secs] [Times: user=0,05 sys=0,00, real=0,03 secs] 
+0,613: Total time for which application threads were stopped: 0,0397097 seconds, Stopping threads took: 0,0099786 seconds
+0,626: Application time: 0,0124532 seconds
+0,626: [GC (Allocation Failure) 0,626: [ParNew
+Desired survivor size 1081344 bytes, new threshold 1 (max 6)
+- age   1:    1366744 bytes,    1366744 total
+: 19008K->2112K(19008K), 0,0139520 secs] 37884K->23174K(61376K), 0,0140423 secs] [Times: user=0,03 sys=0,00, real=0,02 secs] 
+0,640: Total time for which application threads were stopped: 0,0141763 seconds, Stopping threads took: 0,0000526 seconds
+0,648: Application time: 0,0078817 seconds
+0,648: [GC (Allocation Failure) 0,648: [ParNew
+Desired survivor size 1081344 bytes, new threshold 1 (max 6)
+- age   1:    1572448 bytes,    1572448 total
+: 19008K->2084K(19008K), 0,0104588 secs] 36769K->21180K(61376K), 0,0105436 secs] [Times: user=0,02 sys=0,01, real=0,02 secs] 
+0,659: Total time for which application threads were stopped: 0,0107314 seconds, Stopping threads took: 0,0000518 seconds
+0,670: Application time: 0,0112241 seconds
+0,670: [GC (Allocation Failure) 0,670: [ParNew
+Desired survivor size 1081344 bytes, new threshold 6 (max 6)
+- age   1:         16 bytes,         16 total
+: 17444K->749K(19008K), 0,0175471 secs] 28995K->13836K(61376K), 0,0176499 secs] [Times: user=0,03 sys=0,00, real=0,01 secs] 
+0,688: Total time for which application threads were stopped: 0,0178296 seconds, Stopping threads took: 0,0000737 seconds
+0,690: Application time: 0,0024972 seconds
+0,690: [GC (Allocation Failure) 0,690: [ParNew
+Desired survivor size 1081344 bytes, new threshold 6 (max 6)
+- age   1:         16 bytes,         16 total
+: 16109K->187K(19008K), 0,0005827 secs] 27732K->11810K(61376K), 0,0006258 secs] [Times: user=0,00 sys=0,00, real=0,00 secs] 
+0,691: Total time for which application threads were stopped: 0,0007814 seconds, Stopping threads took: 0,0000536 seconds
+0,693: Application time: 0,0019785 seconds
+0,693: [GC (Allocation Failure) 0,693: [ParNew
+Desired survivor size 1081344 bytes, new threshold 1 (max 6)
+- age   1:    1175104 bytes,    1175104 total
+: 16767K->1171K(19008K), 0,0033496 secs] 28390K->12794K(61376K), 0,0034310 secs] [Times: user=0,00 sys=0,00, real=0,01 secs] 
+0,697: Total time for which application threads were stopped: 0,0036931 seconds, Stopping threads took: 0,0001357 seconds
+0,700: Application time: 0,0036865 seconds
+0,701: [GC (Allocation Failure) 0,701: [ParNew
+Desired survivor size 1081344 bytes, new threshold 1 (max 6)
+- age   1:    1572160 bytes,    1572160 total
+: 18067K->1768K(19008K), 0,0079538 secs] 29043K->13892K(61376K), 0,0081342 secs] [Times: user=0,00 sys=0,00, real=0,00 secs] 
+0,709: Total time for which application threads were stopped: 0,0083197 seconds, Stopping threads took: 0,0000585 seconds
+0,712: Application time: 0,0033058 seconds
+0,712: [GC (Allocation Failure) 0,712: [ParNew
+Desired survivor size 1081344 bytes, new threshold 6 (max 6)
+- age   1:         16 bytes,         16 total
+: 17128K->686K(19008K), 0,0061283 secs] 28451K->13544K(61376K), 0,0062009 secs] [Times: user=0,00 sys=0,00, real=0,01 secs] 
+0,718: Total time for which application threads were stopped: 0,0063531 seconds, Stopping threads took: 0,0000504 seconds
+0,719: [CMS-concurrent-sweep: 0,056/0,165 secs] [Times: user=0,25 sys=0,02, real=0,17 secs] 
+0,719: [CMS-concurrent-reset-start]
+0,722: Application time: 0,0033830 seconds
+0,722: [GC (Allocation Failure) 0,722: [ParNew
+Desired survivor size 1081344 bytes, new threshold 1 (max 6)
+- age   1:    1571776 bytes,    1571776 total
+: 17582K->1544K(19008K), 0,0043294 secs] 30440K->14402K(61376K), 0,0043960 secs] [Times: user=0,00 sys=0,00, real=0,00 secs] 
+0,726: Total time for which application threads were stopped: 0,0044962 seconds, Stopping threads took: 0,0000204 seconds
+0,728: [CMS-concurrent-reset: 0,005/0,009 secs] [Times: user=0,00 sys=0,00, real=0,00 secs] 
+0,731: Application time: 0,0044819 seconds
+0,731: [GC (Allocation Failure) 0,731: [ParNew
+Desired survivor size 1081344 bytes, new threshold 6 (max 6)
+- age   1:     293056 bytes,     293056 total
+: 17231K->1236K(19008K), 0,0064014 secs] 30089K->15630K(61376K), 0,0064823 secs] [Times: user=0,02 sys=0,00, real=0,01 secs] 
+0,737: Total time for which application threads were stopped: 0,0067139 seconds, Stopping threads took: 0,0001425 seconds
+0,740: Application time: 0,0020371 seconds
+0,740: [GC (Allocation Failure) 0,740: [ParNew
+Desired survivor size 1081344 bytes, new threshold 1 (max 6)
+- age   1:    1235824 bytes,    1235824 total
+- age   2:     293040 bytes,    1528864 total
+: 17804K->1713K(19008K), 0,0044571 secs] 32198K->16107K(61376K), 0,0045102 secs] [Times: user=0,01 sys=0,00, real=0,00 secs] 
+0,744: Total time for which application threads were stopped: 0,0048183 seconds, Stopping threads took: 0,0001615 seconds
+0,749: Application time: 0,0043314 seconds
+0,749: [GC (Allocation Failure) 0,749: [ParNew
+Desired survivor size 1081344 bytes, new threshold 1 (max 6)
+- age   1:    1571928 bytes,    1571928 total
+: 18609K->2112K(19008K), 0,0101632 secs] 33003K->17998K(61376K), 0,0102566 secs] [Times: user=0,02 sys=0,00, real=0,01 secs] 
+0,759: Total time for which application threads were stopped: 0,0105019 seconds, Stopping threads took: 0,0000805 seconds
+0,760: Application time: 0,0011999 seconds
+0,762: [GC (CMS Initial Mark) [1 CMS-initial-mark: 15886K(42368K)] 33696K(61376K), 0,0012684 secs] [Times: user=0,00 sys=0,00, real=0,00 secs] 
+0,763: Total time for which application threads were stopped: 0,0024733 seconds, Stopping threads took: 0,0011209 seconds
+0,763: [CMS-concurrent-mark-start]
+0,765: Application time: 0,0022756 seconds
+0,765: [GC (Allocation Failure) 0,765: [ParNew
+Desired survivor size 1081344 bytes, new threshold 1 (max 6)
+- age   1:    1225800 bytes,    1225800 total
+: 19008K->2112K(19008K), 0,0107590 secs] 34894K->19533K(61376K), 0,0108397 secs] [Times: user=0,02 sys=0,00, real=0,01 secs] 
+0,776: Total time for which application threads were stopped: 0,0111976 seconds, Stopping threads took: 0,0001785 seconds
+0,782: Application time: 0,0055200 seconds
+0,785: [GC (Allocation Failure) 0,785: [ParNew
+Desired survivor size 1081344 bytes, new threshold 1 (max 6)
+- age   1:    1907008 bytes,    1907008 total
+: 4889K->2112K(19008K), 0,0158443 secs] 22310K->21640K(61376K), 0,0160000 secs] [Times: user=0,03 sys=0,00, real=0,02 secs] 
+0,801: Total time for which application threads were stopped: 0,0189336 seconds, Stopping threads took: 0,0028149 seconds
+0,803: Application time: 0,0026416 seconds
+0,805: [GC (Allocation Failure) 0,805: [ParNew
+Desired survivor size 1081344 bytes, new threshold 1 (max 6)
+- age   1:    1571040 bytes,    1571040 total
+: 19008K->1599K(19008K), 0,0182780 secs] 38536K->38351K(61376K), 0,0183941 secs] [Times: user=0,03 sys=0,01, real=0,02 secs] 
+0,823: Total time for which application threads were stopped: 0,0197341 seconds, Stopping threads took: 0,0011960 seconds
+0,849: [CMS-concurrent-mark: 0,034/0,086 secs] [Times: user=0,15 sys=0,01, real=0,09 secs] 
+0,853: Application time: 0,0297163 seconds
+0,853: [GC (Allocation Failure) 0,854: [ParNew
+Desired survivor size 1081344 bytes, new threshold 1 (max 6)
+- age   1:    2162624 bytes,    2162624 total
+: 15410K->2112K(19008K), 0,0413807 secs] 52161K->44361K(64544K), 0,0415221 secs] [Times: user=0,05 sys=0,01, real=0,04 secs] 
+0,895: Total time for which application threads were stopped: 0,0421986 seconds, Stopping threads took: 0,0004870 seconds
+0,895: [CMS-concurrent-preclean-start]
+0,908: Application time: 0,0127710 seconds
+0,909: [GC (Allocation Failure) 0,909: [ParNew
+Desired survivor size 1081344 bytes, new threshold 6 (max 6)
+- age   1:     138176 bytes,     138176 total
+: 6996K->1971K(19008K), 0,0043813 secs] 49246K->44221K(64544K), 0,0044823 secs] [Times: user=0,00 sys=0,00, real=0,00 secs] 
+0,913: Total time for which application threads were stopped: 0,0055099 seconds, Stopping threads took: 0,0009227 seconds
+0,916: Application time: 0,0025922 seconds
+0,916: [GC (Allocation Failure) 0,916: [ParNew
+Desired survivor size 1081344 bytes, new threshold 6 (max 6)
+- age   1:         16 bytes,         16 total
+- age   2:     138136 bytes,     138152 total
+: 17331K->518K(19008K), 0,0011833 secs] 59581K->42768K(64544K), 0,0012978 secs] [Times: user=0,00 sys=0,00, real=0,01 secs] 
+0,918: Total time for which application threads were stopped: 0,0016512 seconds, Stopping threads took: 0,0001848 seconds
+0,925: Application time: 0,0076611 seconds
+0,925: [GC (Allocation Failure) 0,925: [ParNew
+Desired survivor size 1081344 bytes, new threshold 1 (max 6)
+- age   1:    1572480 bytes,    1572480 total
+- age   3:     138112 bytes,    1710592 total
+: 17414K->1795K(19008K), 0,0107774 secs] 59664K->44045K(64544K), 0,0108953 secs] [Times: user=0,01 sys=0,01, real=0,01 secs] 
+0,936: Total time for which application threads were stopped: 0,0110232 seconds, Stopping threads took: 0,0000208 seconds
+0,939: Application time: 0,0031383 seconds
+0,942: [GC (Allocation Failure) 0,942: [ParNew
+Desired survivor size 1081344 bytes, new threshold 1 (max 6)
+- age   1:    1157016 bytes,    1157016 total
+: 18349K->1940K(19008K), 0,0235545 secs] 60599K->61221K(79908K), 0,0236909 secs] [Times: user=0,04 sys=0,01, real=0,02 secs] 
+0,966: Total time for which application threads were stopped: 0,0263498 seconds, Stopping threads took: 0,0020356 seconds
+0,970: Application time: 0,0044769 seconds
+0,970: [GC (Allocation Failure) 0,970: [ParNew
+Desired survivor size 1081344 bytes, new threshold 1 (max 6)
+- age   1:    1572320 bytes,    1572320 total
+: 18836K->1867K(19008K), 0,0227869 secs] 78117K->77638K(95272K), 0,0228678 secs] [Times: user=0,02 sys=0,01, real=0,02 secs] 
+0,993: Total time for which application threads were stopped: 0,0230725 seconds, Stopping threads took: 0,0001008 seconds
+0,996: Application time: 0,0026723 seconds
+0,996: [GC (Allocation Failure) 0,996: [ParNew
+Desired survivor size 1081344 bytes, new threshold 6 (max 6)
+- age   1:         16 bytes,         16 total
+: 17227K->669K(19008K), 0,0089978 secs] 92998K->77975K(96616K), 0,0090732 secs] [Times: user=0,02 sys=0,00, real=0,01 secs] 
+1,005: Total time for which application threads were stopped: 0,0092211 seconds, Stopping threads took: 0,0000564 seconds
+1,008: Application time: 0,0024898 seconds
+1,008: [GC (Allocation Failure) 1,008: [ParNew
+Desired survivor size 1081344 bytes, new threshold 6 (max 6)
+- age   1:         16 bytes,         16 total
+: 16029K->167K(19008K), 0,0005148 secs] 93335K->77473K(96616K), 0,0005520 secs] [Times: user=0,00 sys=0,00, real=0,00 secs] 
+1,008: Total time for which application threads were stopped: 0,0007185 seconds, Stopping threads took: 0,0000580 seconds
+1,011: Application time: 0,0022027 seconds
+1,011: [GC (Allocation Failure) 1,011: [ParNew
+Desired survivor size 1081344 bytes, new threshold 6 (max 6)
+- age   1:         16 bytes,         16 total
+: 15527K->41K(19008K), 0,0005047 secs] 92833K->77347K(96616K), 0,0005414 secs] [Times: user=0,00 sys=0,00, real=0,00 secs] 
+1,011: Total time for which application threads were stopped: 0,0006708 seconds, Stopping threads took: 0,0000548 seconds
+1,017: Application time: 0,0055200 seconds
+1,018: [GC (Allocation Failure) 1,018: [ParNew
+Desired survivor size 1081344 bytes, new threshold 1 (max 6)
+- age   1:    1572200 bytes,    1572200 total
+- age   2:         16 bytes,    1572216 total
+: 16937K->1547K(19008K), 0,0179060 secs] 94243K->94213K(111980K), 0,0180434 secs] [Times: user=0,00 sys=0,02, real=0,01 secs] 
+1,036: Total time for which application threads were stopped: 0,0192110 seconds, Stopping threads took: 0,0009934 seconds
+1,041: Application time: 0,0047977 seconds
+1,043: [GC (Allocation Failure) 1,043: [ParNew
+Desired survivor size 1081344 bytes, new threshold 1 (max 6)
+- age   1:    1226416 bytes,    1226416 total
+: 18443K->2112K(19008K), 0,0238721 secs] 111109K->111673K(128880K), 0,0239950 secs] [Times: user=0,04 sys=0,01, real=0,02 secs] 
+1,067: Total time for which application threads were stopped: 0,0264651 seconds, Stopping threads took: 0,0023146 seconds
+1,073: Application time: 0,0059692 seconds
+1,073: [GC (Allocation Failure) 1,074: [ParNew
+Desired survivor size 1081344 bytes, new threshold 6 (max 6)
+- age   1:         32 bytes,         32 total
+: 17472K->369K(19008K), 0,0302077 secs] 127033K->126488K(145396K), 0,0303406 secs] [Times: user=0,05 sys=0,01, real=0,03 secs] 
+1,104: Total time for which application threads were stopped: 0,0305061 seconds, Stopping threads took: 0,0000592 seconds
+1,104: Application time: 0,0001079 seconds
+1,106: [GC (Allocation Failure) 1,106: [ParNew
+Desired survivor size 1081344 bytes, new threshold 6 (max 6)
+- age   2:         32 bytes,         32 total
+: 15729K->184K(19008K), 0,0134958 secs] 141848K->141663K(160760K), 0,0135769 secs] [Times: user=0,01 sys=0,02, real=0,02 secs] 
+1,120: Total time for which application threads were stopped: 0,0155553 seconds, Stopping threads took: 0,0018563 seconds
+1,125: Application time: 0,0055562 seconds
+1,126: [GC (Allocation Failure) 1,126: [ParNew
+Desired survivor size 1081344 bytes, new threshold 6 (max 6)
+- age   1:     745336 bytes,     745336 total
+- age   3:         16 bytes,     745352 total
+: 16303K->761K(19008K), 0,0331371 secs] 157782K->157600K(176124K), 0,0332283 secs] [Times: user=0,03 sys=0,03, real=0,04 secs] 
+1,159: Total time for which application threads were stopped: 0,0338534 seconds, Stopping threads took: 0,0002962 seconds
+1,163: Application time: 0,0042788 seconds
+1,163: [GC (Allocation Failure) 1,163: [ParNew
+Desired survivor size 1081344 bytes, new threshold 1 (max 6)
+- age   1:    1247016 bytes,    1247016 total
+- age   2:     745336 bytes,    1992352 total
+- age   4:         16 bytes,    1992368 total
+: 17657K->2112K(19008K), 0,0187996 secs] 174496K->174628K(191872K), 0,0189220 secs] [Times: user=0,02 sys=0,01, real=0,02 secs] 
+1,182: Total time for which application threads were stopped: 0,0191471 seconds, Stopping threads took: 0,0000770 seconds
+1,185: Application time: 0,0024437 seconds
+1,185: [GC (Allocation Failure) 1,185: [ParNew
+Desired survivor size 1081344 bytes, new threshold 6 (max 6)
+- age   1:         16 bytes,         16 total
+: 17809K->799K(19008K), 0,0115350 secs] 190326K->175261K(193792K), 0,0116321 secs] [Times: user=0,02 sys=0,00, real=0,01 secs] 
+1,197: Total time for which application threads were stopped: 0,0118380 seconds, Stopping threads took: 0,0000609 seconds
+1,201: Application time: 0,0039842 seconds
+1,201: [GC (Allocation Failure) 1,201: [ParNew
+Desired survivor size 1081344 bytes, new threshold 6 (max 6)
+- age   1:         16 bytes,         16 total
+: 16159K->199K(19008K), 0,0007325 secs] 190621K->174662K(193792K), 0,0007823 secs] [Times: user=0,00 sys=0,00, real=0,00 secs] 
+1,202: Total time for which application threads were stopped: 0,0009735 seconds, Stopping threads took: 0,0000718 seconds
+1,204: Application time: 0,0024238 seconds
+1,204: [GC (Allocation Failure) 1,204: [ParNew
+Desired survivor size 1081344 bytes, new threshold 6 (max 6)
+- age   1:         16 bytes,         16 total
+: 15559K->49K(19008K), 0,0008011 secs] 190022K->174512K(193792K), 0,0008492 secs] [Times: user=0,00 sys=0,00, real=0,00 secs] 
+1,205: Total time for which application threads were stopped: 0,0010370 seconds, Stopping threads took: 0,0000688 seconds
+1,208: Application time: 0,0028857 seconds
+1,209: [GC (Allocation Failure) 1,209: [ParNew
+Desired survivor size 1081344 bytes, new threshold 1 (max 6)
+- age   1:    1571656 bytes,    1571656 total
+- age   2:         16 bytes,    1571672 total
+: 16945K->1548K(19008K), 0,0196527 secs] 191408K->191370K(209156K), 0,0198811 secs] [Times: user=0,01 sys=0,01, real=0,02 secs] 
+1,229: Total time for which application threads were stopped: 0,0213719 seconds, Stopping threads took: 0,0013435 seconds
+1,231: Application time: 0,0011755 seconds
+1,232: [GC (Allocation Failure) 1,233: [ParNew
+Desired survivor size 1081344 bytes, new threshold 6 (max 6)
+- age   1:         16 bytes,         16 total
+: 16908K->578K(19008K), 0,0356137 secs] 206730K->207295K(226056K), 0,0357030 secs] [Times: user=0,04 sys=0,01, real=0,03 secs] 
+1,268: Total time for which application threads were stopped: 0,0377191 seconds, Stopping threads took: 0,0018982 seconds
+1,270: Application time: 0,0022618 seconds
+1,271: [GC (Allocation Failure) 1,271: [ParNew
+Desired survivor size 1081344 bytes, new threshold 6 (max 6)
+- age   1:         32 bytes,         32 total
+- age   2:         16 bytes,         48 total
+: 15938K->289K(19008K), 0,0398325 secs] 222655K->222366K(241420K), 0,0399264 secs] [Times: user=0,04 sys=0,04, real=0,04 secs] 
+1,311: Total time for which application threads were stopped: 0,0400971 seconds, Stopping threads took: 0,0000617 seconds
+1,313: Application time: 0,0020019 seconds
+1,313: [GC (Allocation Failure) 1,313: [ParNew
+Desired survivor size 1081344 bytes, new threshold 6 (max 6)
+- age   1:         16 bytes,         16 total
+- age   2:         16 bytes,         32 total
+- age   3:         16 bytes,         48 total
+: 15649K->72K(19008K), 0,0009090 secs] 237726K->222149K(241420K), 0,0009599 secs] [Times: user=0,00 sys=0,00, real=0,00 secs] 
+1,314: Total time for which application threads were stopped: 0,0012310 seconds, Stopping threads took: 0,0001350 seconds
+1,316: [CMS-concurrent-preclean: 0,069/0,421 secs] [Times: user=0,46 sys=0,24, real=0,42 secs] 
+1,316: Application time: 0,0021122 seconds
+1,316: [GC (Allocation Failure) 1,316: [ParNew
+Desired survivor size 1081344 bytes, new threshold 6 (max 6)
+- age   1:         16 bytes,         16 total
+- age   3:         16 bytes,         32 total
+- age   4:         16 bytes,         48 total
+: 15432K->18K(19008K), 0,0008208 secs] 237509K->222095K(241420K), 0,0008587 secs] [Times: user=0,00 sys=0,00, real=0,01 secs] 
+1,317: Total time for which application threads were stopped: 0,0010281 seconds, Stopping threads took: 0,0000558 seconds
+1,317: [CMS-concurrent-abortable-preclean-start]
+1,318: Application time: 0,0008446 seconds
+1,319: [GC (Allocation Failure) 1,319: [ParNew
+Desired survivor size 1081344 bytes, new threshold 6 (max 6)
+- age   2:         16 bytes,         16 total
+- age   4:         16 bytes,         32 total
+- age   5:         16 bytes,         48 total
+: 15378K->4K(19008K), 0,0255503 secs] 237455K->237441K(256784K), 0,0256293 secs] [Times: user=0,03 sys=0,02, real=0,02 secs] 
+1,345: Total time for which application threads were stopped: 0,0267616 seconds, Stopping threads took: 0,0010145 seconds
+1,347: Application time: 0,0022518 seconds
+1,347: [GC (Allocation Failure) 1,347: [ParNew
+Desired survivor size 1081344 bytes, new threshold 6 (max 6)
+- age   1:         32 bytes,         32 total
+- age   5:         16 bytes,         48 total
+- age   6:         16 bytes,         64 total
+: 15364K->2K(19008K), 0,0258733 secs] 252801K->252799K(272148K), 0,0259943 secs] [Times: user=0,02 sys=0,03, real=0,03 secs] 
+1,373: Total time for which application threads were stopped: 0,0261480 seconds, Stopping threads took: 0,0000315 seconds
+1,373: [CMS-concurrent-abortable-preclean: 0,001/0,056 secs] [Times: user=0,05 sys=0,05, real=0,05 secs] 
+1,375: Application time: 0,0017346 seconds
+1,375: [GC (Allocation Failure) 1,375: [ParNew
+Desired survivor size 1081344 bytes, new threshold 6 (max 6)
+- age   1:         16 bytes,         16 total
+- age   2:         16 bytes,         32 total
+- age   6:         16 bytes,         48 total
+: 15362K->4K(19008K), 0,0009722 secs] 268159K->252801K(272148K), 0,0010204 secs] [Times: user=0,00 sys=0,00, real=0,00 secs] 
+1,376: Total time for which application threads were stopped: 0,0012296 seconds, Stopping threads took: 0,0000844 seconds
+1,378: Application time: 0,0019945 seconds
+1,379: [GC (Allocation Failure) 1,379: [ParNew
+Desired survivor size 1081344 bytes, new threshold 6 (max 6)
+- age   3:         16 bytes,         16 total
+: 15364K->2K(19008K), 0,0016644 secs] 268161K->252799K(272148K), 0,0017128 secs] [Times: user=0,00 sys=0,00, real=0,00 secs] 
+1,381: Total time for which application threads were stopped: 0,0025611 seconds, Stopping threads took: 0,0007369 seconds
+1,381: Application time: 0,0000665 seconds
+1,382: [GC (Allocation Failure) 1,382: [ParNew
+Desired survivor size 1081344 bytes, new threshold 6 (max 6)
+- age   1:         16 bytes,         16 total
+- age   4:         16 bytes,         32 total
+: 15362K->2K(19008K), 0,0082982 secs] 268159K->268159K(287512K), 0,0083842 secs] [Times: user=0,01 sys=0,00, real=0,01 secs] 
+1,391: Total time for which application threads were stopped: 0,0102786 seconds, Stopping threads took: 0,0017694 seconds
+1,393: Application time: 0,0018071 seconds
+1,393: [GC (Allocation Failure) 1,393: [ParNew
+Desired survivor size 1081344 bytes, new threshold 6 (max 6)
+- age   1:         32 bytes,         32 total
+: 15362K->4K(19008K), 0,0008946 secs] 283519K->268161K(287512K), 0,0009443 secs] [Times: user=0,00 sys=0,00, real=0,00 secs] 
+1,394: Total time for which application threads were stopped: 0,0011696 seconds, Stopping threads took: 0,0001029 seconds
+1,394: Application time: 0,0001040 seconds
+1,396: [GC (Allocation Failure) 1,396: [ParNew
+Desired survivor size 1081344 bytes, new threshold 6 (max 6)
+- age   2:         32 bytes,         32 total
+: 15364K->4K(19008K), 0,0290154 secs] 283521K->283521K(302876K), 0,0290902 secs] [Times: user=0,02 sys=0,03, real=0,03 secs] 
+1,425: Total time for which application threads were stopped: 0,0309609 seconds, Stopping threads took: 0,0017670 seconds
+1,427: Application time: 0,0017006 seconds
+1,427: [GC (Allocation Failure) 1,427: [ParNew
+Desired survivor size 1081344 bytes, new threshold 6 (max 6)
+- age   1:         32 bytes,         32 total
+: 15364K->4K(19008K), 0,0009402 secs] 298881K->283521K(302876K), 0,0009869 secs] [Times: user=0,00 sys=0,00, real=0,00 secs] 
+1,428: Total time for which application threads were stopped: 0,0012055 seconds, Stopping threads took: 0,0000951 seconds
+1,428: Application time: 0,0001109 seconds
+1,430: [GC (Allocation Failure) 1,430: [ParNew
+Desired survivor size 1081344 bytes, new threshold 6 (max 6)
+- age   2:         32 bytes,         32 total
+: 15364K->4K(19008K), 0,0253096 secs] 298881K->298881K(318240K), 0,0253852 secs] [Times: user=0,02 sys=0,03, real=0,02 secs] 
+1,455: Total time for which application threads were stopped: 0,0273589 seconds, Stopping threads took: 0,0018672 seconds
+1,457: Application time: 0,0018022 seconds
+1,457: [GC (Allocation Failure) 1,457: [ParNew
+Desired survivor size 1081344 bytes, new threshold 6 (max 6)
+- age   1:         32 bytes,         32 total
+: 15364K->4K(19008K), 0,0009766 secs] 314241K->298881K(318240K), 0,0010255 secs] [Times: user=0,01 sys=0,00, real=0,00 secs] 
+1,458: Total time for which application threads were stopped: 0,0011747 seconds, Stopping threads took: 0,0000601 seconds
+1,458: Application time: 0,0001130 seconds
+1,460: [GC (Allocation Failure) 1,460: [ParNew
+Desired survivor size 1081344 bytes, new threshold 6 (max 6)
+- age   2:         32 bytes,         32 total
+: 15364K->4K(19008K), 0,0307775 secs] 314241K->314241K(333604K), 0,0308915 secs] [Times: user=0,03 sys=0,03, real=0,03 secs] 
+1,491: Total time for which application threads were stopped: 0,0327424 seconds, Stopping threads took: 0,0017129 seconds
+1,493: Application time: 0,0017949 seconds
+1,493: [GC (Allocation Failure) 1,493: [ParNew
+Desired survivor size 1081344 bytes, new threshold 6 (max 6)
+- age   1:         32 bytes,         32 total
+: 15364K->4K(19008K), 0,0009409 secs] 329601K->314241K(333604K), 0,0009897 secs] [Times: user=0,00 sys=0,00, real=0,00 secs] 
+1,494: Total time for which application threads were stopped: 0,0012645 seconds, Stopping threads took: 0,0001502 seconds
+1,494: Application time: 0,0001161 seconds
+1,496: [GC (Allocation Failure) 1,496: [ParNew
+Desired survivor size 1081344 bytes, new threshold 6 (max 6)
+- age   2:         32 bytes,         32 total
+: 15364K->2K(19008K), 0,0505954 secs] 329601K->329599K(348968K), 0,0506736 secs] [Times: user=0,05 sys=0,05, real=0,05 secs] 
+1,547: Total time for which application threads were stopped: 0,0525497 seconds, Stopping threads took: 0,0017685 seconds
+1,549: Application time: 0,0017683 seconds
+1,549: [GC (Allocation Failure) 1,549: [ParNew
+Desired survivor size 1081344 bytes, new threshold 6 (max 6)
+- age   1:         32 bytes,         32 total
+- age   3:         32 bytes,         64 total
+: 15362K->4K(19008K), 0,0378140 secs] 344959K->344961K(364332K), 0,0379169 secs] [Times: user=0,05 sys=0,03, real=0,04 secs] 
+1,587: Total time for which application threads were stopped: 0,0380451 seconds, Stopping threads took: 0,0000255 seconds
+1,587: Application time: 0,0001239 seconds
+1,589: [GC (Allocation Failure) 1,589: [ParNew: 15364K->15364K(19008K), 0,0000278 secs]1,589: [CMS (concurrent mode failure): 344957K->26508K(345324K), 0,0519747 secs] 360321K->26508K(364332K), [Metaspace: 2694K->2694K(1056768K)], 0,0523775 secs] [Times: user=0,05 sys=0,00, real=0,06 secs] 
+1,641: Total time for which application threads were stopped: 0,0541904 seconds, Stopping threads took: 0,0017026 seconds
+1,660: Application time: 0,0189187 seconds
+1,698: [GC (Allocation Failure) 1,698: [ParNew
+Desired survivor size 8716288 bytes, new threshold 1 (max 6)
+- age   1:   16496112 bytes,   16496112 total
+: 129332K->16119K(153344K), 0,0516588 secs] 155840K->150150K(507264K), 0,0518003 secs] [Times: user=0,05 sys=0,05, real=0,05 secs] 
+1,750: Total time for which application threads were stopped: 0,0899065 seconds, Stopping threads took: 0,0379379 seconds
+1,766: Application time: 0,0158189 seconds
+1,771: [GC (Allocation Failure) 1,771: [ParNew
+Desired survivor size 8716288 bytes, new threshold 1 (max 6)
+- age   1:   17144688 bytes,   17144688 total
+: 149362K->17024K(153344K), 0,0546400 secs] 283392K->198575K(507264K), 0,0547981 secs] [Times: user=0,06 sys=0,05, real=0,05 secs] 
+1,826: Total time for which application threads were stopped: 0,0600107 seconds, Stopping threads took: 0,0050684 seconds
+1,837: Application time: 0,0109011 seconds
+1,842: [GC (CMS Initial Mark) [1 CMS-initial-mark: 181551K(353920K)] 325572K(507264K), 0,0013866 secs] [Times: user=0,00 sys=0,00, real=0,00 secs] 
+1,844: Total time for which application threads were stopped: 0,0073348 seconds, Stopping threads took: 0,0058548 seconds
+1,844: [CMS-concurrent-mark-start]
+1,850: Application time: 0,0056883 seconds
+1,850: [GC (Allocation Failure) 1,850: [ParNew
+Desired survivor size 8716288 bytes, new threshold 1 (max 6)
+- age   1:   17039496 bytes,   17039496 total
+: 147234K->17024K(153344K), 0,0215608 secs] 328785K->202263K(507264K), 0,0216665 secs] [Times: user=0,04 sys=0,00, real=0,02 secs] 
+1,872: Total time for which application threads were stopped: 0,0220897 seconds, Stopping threads took: 0,0002873 seconds
+1,893: Application time: 0,0217685 seconds
+1,900: [GC (Allocation Failure) 1,900: [ParNew
+Desired survivor size 8716288 bytes, new threshold 1 (max 6)
+- age   1:   16790280 bytes,   16790280 total
+: 151045K->17024K(153344K), 0,0341238 secs] 336285K->284123K(507264K), 0,0342848 secs] [Times: user=0,07 sys=0,00, real=0,03 secs] 
+1,934: Total time for which application threads were stopped: 0,0405629 seconds, Stopping threads took: 0,0060675 seconds
+1,950: Application time: 0,0156458 seconds
+1,950: [GC (Allocation Failure) 1,950: [ParNew: 144445K->144445K(153344K), 0,0000227 secs]1,950: [CMS1,959: [CMS-concurrent-mark: 0,054/0,115 secs] [Times: user=0,20 sys=0,01, real=0,12 secs] 
+ (concurrent mode failure): 267099K->23607K(353920K), 0,0804189 secs] 411544K->23607K(507264K), [Metaspace: 2695K->2695K(1056768K)], 0,0805900 secs] [Times: user=0,08 sys=0,00, real=0,08 secs] 
+2,031: Total time for which application threads were stopped: 0,0809807 seconds, Stopping threads took: 0,0002743 seconds
+2,050: Application time: 0,0192016 seconds
+2,051: [GC (Allocation Failure) 2,051: [ParNew
+Desired survivor size 8716288 bytes, new threshold 6 (max 6)
+- age   1:    8224400 bytes,    8224400 total
+: 121886K->9004K(153344K), 0,0511035 secs] 145493K->140136K(507264K), 0,0513155 secs] [Times: user=0,08 sys=0,00, real=0,05 secs] 
+2,102: Total time for which application threads were stopped: 0,0520572 seconds, Stopping threads took: 0,0005696 seconds
+2,109: Application time: 0,0069698 seconds
+2,113: [GC (CMS Initial Mark) [1 CMS-initial-mark: 131131K(353920K)] 186378K(507264K), 0,0151993 secs] [Times: user=0,01 sys=0,00, real=0,01 secs] 
+2,129: Total time for which application threads were stopped: 0,0197147 seconds, Stopping threads took: 0,0043263 seconds
+2,130: [CMS-concurrent-mark-start]
+2,133: [CMS-concurrent-mark: 0,003/0,003 secs] [Times: user=0,00 sys=0,00, real=0,00 secs] 
+2,133: [CMS-concurrent-preclean-start]
+2,149: [CMS-concurrent-preclean: 0,016/0,016 secs] [Times: user=0,02 sys=0,01, real=0,01 secs] 
+2,150: [CMS-concurrent-abortable-preclean-start]
+2,181: Application time: 0,0525867 seconds
+2,182: [GC (Allocation Failure) 2,182: [ParNew
+Desired survivor size 8716288 bytes, new threshold 1 (max 6)
+- age   1:   17432328 bytes,   17432328 total
+- age   2:         40 bytes,   17432368 total
+: 141587K->17024K(153344K), 0,0372648 secs] 272719K->181845K(507264K), 0,0373968 secs] [Times: user=0,07 sys=0,00, real=0,04 secs] 
+2,219: Total time for which application threads were stopped: 0,0377921 seconds, Stopping threads took: 0,0003130 seconds
+2,250: Application time: 0,0309699 seconds
+2,250: [GC (Allocation Failure) 2,251: [ParNew
+Desired survivor size 8716288 bytes, new threshold 6 (max 6)
+- age   1:    3170320 bytes,    3170320 total
+: 144259K->3964K(153344K), 0,0126589 secs] 309080K->185809K(507264K), 0,0127883 secs] [Times: user=0,02 sys=0,00, real=0,01 secs] 
+2,263: Total time for which application threads were stopped: 0,0133276 seconds, Stopping threads took: 0,0004158 seconds
+2,278: [CMS-concurrent-abortable-preclean: 0,070/0,128 secs] [Times: user=0,23 sys=0,01, real=0,13 secs] 
+2,285: Application time: 0,0216719 seconds
+2,286: [GC (CMS Final Remark) [YG occupancy: 94936 K (153344 K)]2,286: [Rescan (parallel) , 0,0046001 secs]2,291: [weak refs processing, 0,0000125 secs]2,291: [class unloading, 0,0002355 secs]2,291: [scrub symbol table, 0,0002649 secs]2,291: [scrub string table, 0,0001614 secs][1 CMS-remark: 181845K(353920K)] 276781K(507264K), 0,0054199 secs] [Times: user=0,00 sys=0,00, real=0,01 secs] 
+2,291: Total time for which application threads were stopped: 0,0063328 seconds, Stopping threads took: 0,0008165 seconds
+2,291: [CMS-concurrent-sweep-start]
+2,314: Application time: 0,0225881 seconds
+2,316: [GC (Allocation Failure) 2,317: [ParNew
+Desired survivor size 8716288 bytes, new threshold 6 (max 6)
+- age   1:    3244048 bytes,    3244048 total
+- age   2:    3170304 bytes,    6414352 total
+: 135781K->7957K(153344K), 0,0257389 secs] 308250K->180426K(507264K), 0,0259034 secs] [Times: user=0,04 sys=0,01, real=0,03 secs] 
+2,342: Total time for which application threads were stopped: 0,0285590 seconds, Stopping threads took: 0,0025037 seconds
+2,361: [CMS-concurrent-sweep: 0,042/0,070 secs] [Times: user=0,12 sys=0,01, real=0,07 secs] 
+2,365: [CMS-concurrent-reset-start]
+2,366: [CMS-concurrent-reset: 0,001/0,001 secs] [Times: user=0,00 sys=0,00, real=0,00 secs] 
+2,373: Application time: 0,0301988 seconds
+2,373: [GC (Allocation Failure) 2,373: [ParNew
+Desired survivor size 8716288 bytes, new threshold 2 (max 6)
+- age   1:    8388520 bytes,    8388520 total
+- age   2:    3244032 bytes,   11632552 total
+- age   3:    3170304 bytes,   14802856 total
+: 142185K->16083K(153344K), 0,0406586 secs] 193190K->67088K(507264K), 0,0407902 secs] [Times: user=0,08 sys=0,00, real=0,04 secs] 
+2,414: Total time for which application threads were stopped: 0,0412066 seconds, Stopping threads took: 0,0002552 seconds
+2,451: Application time: 0,0367965 seconds
+2,451: [GC (Allocation Failure) 2,451: [ParNew
+Desired survivor size 8716288 bytes, new threshold 6 (max 6)
+- age   1:     490784 bytes,     490784 total
+: 152403K->12182K(153344K), 0,0111438 secs] 203408K->63187K(507264K), 0,0112718 secs] [Times: user=0,01 sys=0,00, real=0,01 secs] 
+2,462: Total time for which application threads were stopped: 0,0114062 seconds, Stopping threads took: 0,0000410 seconds
+2,478: Application time: 0,0163917 seconds
+2,482: [GC (Allocation Failure) 2,482: [ParNew
+Desired survivor size 8716288 bytes, new threshold 1 (max 6)
+- age   1:   12049496 bytes,   12049496 total
+- age   2:     490496 bytes,   12539992 total
+: 140676K->13919K(153344K), 0,0229606 secs] 191681K->99740K(507264K), 0,0230779 secs] [Times: user=0,04 sys=0,00, real=0,02 secs] 
+2,505: Total time for which application threads were stopped: 0,0262064 seconds, Stopping threads took: 0,0029970 seconds
+2,517: Application time: 0,0124285 seconds
+2,520: [GC (Allocation Failure) 2,520: [ParNew
+Desired survivor size 8716288 bytes, new threshold 1 (max 6)
+- age   1:   16735576 bytes,   16735576 total
+: 142858K->17024K(153344K), 0,0358478 secs] 228679K->145579K(507264K), 0,0359722 secs] [Times: user=0,07 sys=0,00, real=0,03 secs] 
+2,556: Total time for which application threads were stopped: 0,0386635 seconds, Stopping threads took: 0,0025784 seconds
+2,569: Application time: 0,0130858 seconds
+2,571: [GC (Allocation Failure) 2,571: [ParNew
+Desired survivor size 8716288 bytes, new threshold 1 (max 6)
+- age   1:   16360536 bytes,   16360536 total
+: 139224K->17024K(153344K), 0,0115411 secs] 267779K->187522K(507264K), 0,0116557 secs] [Times: user=0,02 sys=0,00, real=0,01 secs] 
+2,583: Total time for which application threads were stopped: 0,0137735 seconds, Stopping threads took: 0,0020084 seconds
+2,598: Application time: 0,0154507 seconds
+2,600: [GC (Allocation Failure) 2,600: [ParNew
+Desired survivor size 8716288 bytes, new threshold 1 (max 6)
+- age   1:   17208616 bytes,   17208616 total
+: 152574K->17024K(153344K), 0,0123514 secs] 323073K->212376K(507264K), 0,0124579 secs] [Times: user=0,02 sys=0,00, real=0,01 secs] 
+2,612: Total time for which application threads were stopped: 0,0140097 seconds, Stopping threads took: 0,0014449 seconds
+2,629: Application time: 0,0164325 seconds
+2,630: [GC (CMS Initial Mark) [1 CMS-initial-mark: 195352K(353920K)] 346929K(507264K), 0,0015804 secs] [Times: user=0,00 sys=0,01, real=0,00 secs] 
+2,632: Total time for which application threads were stopped: 0,0032729 seconds, Stopping threads took: 0,0015691 seconds
+2,632: [CMS-concurrent-mark-start]
+2,641: Application time: 0,0092235 seconds
+2,641: [GC (Allocation Failure) 2,641: [ParNew
+Desired survivor size 8716288 bytes, new threshold 1 (max 6)
+- age   1:   17432320 bytes,   17432320 total
+: 153344K->17024K(153344K), 0,0175011 secs] 348696K->229777K(507264K), 0,0175904 secs] [Times: user=0,03 sys=0,00, real=0,02 secs] 
+2,659: Total time for which application threads were stopped: 0,0177305 seconds, Stopping threads took: 0,0000480 seconds
+2,678: Application time: 0,0189541 seconds
+2,678: [GC (Allocation Failure) 2,678: [ParNew
+Desired survivor size 8716288 bytes, new threshold 1 (max 6)
+- age   1:   11534432 bytes,   11534432 total
+: 149646K->12618K(153344K), 0,0160747 secs] 362399K->269019K(507264K), 0,0161717 secs] [Times: user=0,04 sys=0,00, real=0,01 secs] 
+2,694: Total time for which application threads were stopped: 0,0163785 seconds, Stopping threads took: 0,0001109 seconds
+2,705: [CMS-concurrent-mark: 0,025/0,073 secs] [Times: user=0,12 sys=0,00, real=0,07 secs] 
+2,705: [CMS-concurrent-preclean-start]
+2,713: Application time: 0,0192088 seconds
+2,715: [GC (Allocation Failure) 2,715: [ParNew
+Desired survivor size 8716288 bytes, new threshold 1 (max 6)
+- age   1:   17432464 bytes,   17432464 total
+: 143565K->17024K(153344K), 0,0222791 secs] 399966K->293721K(507264K), 0,0224002 secs] [Times: user=0,04 sys=0,00, real=0,03 secs] 
+2,738: Total time for which application threads were stopped: 0,0244902 seconds, Stopping threads took: 0,0019969 seconds
+2,755: Application time: 0,0176029 seconds
+2,757: [GC (Allocation Failure) 2,757: [ParNew
+Desired survivor size 8716288 bytes, new threshold 1 (max 6)
+- age   1:   17143496 bytes,   17143496 total
+: 147818K->17024K(153344K), 0,0165854 secs] 424515K->352143K(507264K), 0,0167321 secs] [Times: user=0,03 sys=0,00, real=0,01 secs] 
+2,774: Total time for which application threads were stopped: 0,0187638 seconds, Stopping threads took: 0,0019301 seconds
+2,781: [CMS-concurrent-preclean: 0,024/0,076 secs] [Times: user=0,12 sys=0,01, real=0,08 secs] 
+2,781: [CMS-concurrent-abortable-preclean-start]
+2,781: [CMS-concurrent-abortable-preclean: 0,000/0,000 secs] [Times: user=0,00 sys=0,00, real=0,00 secs] 
+2,789: Application time: 0,0152138 seconds
+2,791: [GC (Allocation Failure) 2,791: [ParNew: 148743K->148743K(153344K), 0,0000209 secs]2,791: [CMS (concurrent mode failure): 335119K->37065K(353920K), 0,0707229 secs] 483863K->37065K(507264K), [Metaspace: 2705K->2705K(1056768K)], 0,0709187 secs] [Times: user=0,07 sys=0,00, real=0,07 secs] 
+2,862: Total time for which application threads were stopped: 0,0721713 seconds, Stopping threads took: 0,0011501 seconds
+2,876: Application time: 0,0140885 seconds
+2,877: [GC (Allocation Failure) 2,877: [ParNew
+Desired survivor size 8716288 bytes, new threshold 1 (max 6)
+- age   1:   14734328 bytes,   14734328 total
+: 133203K->15513K(153344K), 0,0095415 secs] 170268K->94566K(507264K), 0,0096404 secs] [Times: user=0,02 sys=0,00, real=0,00 secs] 
+2,887: Total time for which application threads were stopped: 0,0108739 seconds, Stopping threads took: 0,0010692 seconds
+2,902: Application time: 0,0151141 seconds
+2,903: [GC (Allocation Failure) 2,903: [ParNew
+Desired survivor size 8716288 bytes, new threshold 1 (max 6)
+- age   1:   16297528 bytes,   16297528 total
+: 148121K->16120K(153344K), 0,0081424 secs] 227174K->119802K(507264K), 0,0082463 secs] [Times: user=0,02 sys=0,00, real=0,01 secs] 
+2,911: Total time for which application threads were stopped: 0,0097154 seconds, Stopping threads took: 0,0013247 seconds
+2,925: Application time: 0,0134512 seconds
+2,934: [GC (Allocation Failure) 2,934: [ParNew
+Desired survivor size 8716288 bytes, new threshold 6 (max 6)
+- age   1:    1751184 bytes,    1751184 total
+: 148473K->1970K(153344K), 0,0146047 secs] 252156K->116448K(507264K), 0,0150414 secs] [Times: user=0,02 sys=0,01, real=0,02 secs] 
+2,949: Total time for which application threads were stopped: 0,0242199 seconds, Stopping threads took: 0,0088995 seconds
+2,961: Application time: 0,0122455 seconds
+2,966: [GC (Allocation Failure) 2,966: [ParNew
+Desired survivor size 8716288 bytes, new threshold 2 (max 6)
+- age   1:    8388640 bytes,    8388640 total
+- age   2:    1751184 bytes,   10139824 total
+: 129896K->11003K(153344K), 0,0087679 secs] 244374K->141865K(507264K), 0,0088726 secs] [Times: user=0,01 sys=0,00, real=0,01 secs] 
+2,975: Total time for which application threads were stopped: 0,0137558 seconds, Stopping threads took: 0,0047417 seconds
+Heap
+ par new generation   total 153344K, used 139544K [0x00000000e0000000, 0x00000000ea660000, 0x00000000ea660000)
+  eden space 136320K,  94% used [0x00000000e0000000, 0x00000000e7d87238, 0x00000000e8520000)
+  from space 17024K,  64% used [0x00000000e8520000, 0x00000000e8fdee70, 0x00000000e95c0000)
+  to   space 17024K,   0% used [0x00000000e95c0000, 0x00000000e95c0000, 0x00000000ea660000)
+ concurrent mark-sweep generation total 353920K, used 130861K [0x00000000ea660000, 0x0000000100000000, 0x0000000100000000)
+ Metaspace       used 2713K, capacity 4496K, committed 4864K, reserved 1056768K
+  class space    used 292K, capacity 388K, committed 512K, reserved 1048576K
+3,009: Application time: 0,0341124 seconds
